@@ -4,7 +4,6 @@ a&m-corpus christi,1394
 abilene chr,1101
 abilene christian,1101
 abilene-christian,1101
-abilene christ.,1101
 air force,1102
 air-force,1102
 akron,1103
@@ -39,7 +38,6 @@ appalachian st.,1111
 appalachian state,1111
 appalachian-st,1111
 appalachian-state,1111
-app. st.,1111
 arizona,1112
 arizona st,1113
 arizona st.,1113
@@ -50,7 +48,6 @@ ark little rock,1114
 ark pine bluff,1115
 ark-pine-bluff,1115
 ark.-pine bluff,1115
-ark-pine bluff,1115
 arkansas,1116
 arkansas st,1117
 arkansas st.,1117
@@ -78,6 +75,7 @@ ball state,1123
 ball-st,1123
 ball-state,1123
 baylor,1124
+bellarmine,1468
 belmont,1125
 bethune-cookman,1126
 binghamton,1127
@@ -120,20 +118,15 @@ cal poly slo,1142
 cal riverside,1415
 cal st. fullerton,1168
 cal st. northridge,1169
-cal st bakersfield,1167
 cal state bakersfield,1167
 cal state fullerton,1168
-cal state long beach,1253
-cs long beach,1253
 cal state northridge,1169
 cal state-fullerton,1168
-cal st fullerton,1168
 cal-poly,1142
 cal-st-fullerton,1168
 cal-state-bakersfield,1167
 cal-state-fullerton,1168
 cal-state-northridge,1169
-cal st northridge,1169
 cal. state - bakersfield,1167
 california,1143
 california baptist,1465
@@ -152,7 +145,6 @@ central ark.,1146
 central arkansas,1146
 central conn,1148
 central conn. st.,1148
-central conn st,1148
 central connecticut,1148
 central connecticut state,1148
 central florida,1416
@@ -236,6 +228,8 @@ depaul,1177
 detroit,1178
 detroit mercy,1178
 detroit-mercy,1178
+dixie st,1469
+Dixie State,1469
 drake,1179
 drexel,1180
 duke,1181
@@ -274,7 +268,6 @@ etsu,1190
 evansville,1191
 f dickinson,1192
 fairfield,1193
-fairl. dickinson,1192
 fairleigh dickinson,1192
 fairleigh-dickinson,1192
 fgcu,1195
@@ -283,7 +276,6 @@ fl atlantic,1194
 fl gulf coast,1195
 fla-atlantic,1194
 fla. atlantic,1194
-fla. gulf coast,1195
 florida,1196
 florida a&m,1197
 florida atlantic,1194
@@ -439,7 +431,6 @@ little rock,1114
 little-rock,1114
 liu brooklyn,1254
 liu-brooklyn,1254
-liu,1254
 long beach st,1253
 long beach st.,1253
 long beach state,1253
@@ -454,7 +445,6 @@ longwood,1255
 louisiana,1418
 louisiana state,1261
 louisiana tech,1256
-louisiana lafayette,1418
 louisiana-lafayette,1418
 louisiana-monroe,1419
 louisiana-state,1261
@@ -533,7 +523,6 @@ miss valley st.,1290
 mississippi,1279
 mississippi st,1280
 mississippi st.,1280
-miss. st.,1280
 mississippi state,1280
 mississippi val.,1290
 mississippi valley state,1290
@@ -541,7 +530,6 @@ mississippi-st,1280
 mississippi-state,1280
 mississippi-val,1290
 mississippi-valley-state,1290
-miss val st,1290
 missouri,1281
 missouri kc,1282
 missouri st,1283
@@ -573,6 +561,7 @@ morgan-st,1288
 morgan-state,1288
 morris brown,1289
 morris-brown,1289
+Mount Saint Mary`s,1291
 mount st. mary's,1291
 mount st. marys,1291
 mount-st-marys,1291
@@ -700,7 +689,6 @@ northern-kentucky,1297
 northern-ky,1297
 northwestern,1321
 northwestern la,1322
-nw st.,1322
 northwestern st.,1322
 northwestern state,1322
 northwestern-st,1322
@@ -761,7 +749,6 @@ presbyterian,1342
 princeton,1343
 providence,1344
 purdue,1345
-purdue-fort wayne,1236
 purdue fort wayne,1236
 quinnipiac,1346
 radford,1347
@@ -783,16 +770,21 @@ sacramento-st,1170
 sacramento-state,1170
 sacred heart,1357
 sacred-heart,1357
+Saint Bonaventure,1382
+Saint Francis (NY),1383
 saint francis (pa),1384
+Saint John`s,1385
 saint joseph's,1386
 saint joseph`s,1386
-saint josephÂ’s,1386
+saint joseph’s,1386
 saint louis,1387
 saint mary's,1388
 saint mary's (ca),1388
+Saint Mary`s,1388
 saint peter's,1389
 saint peter`s,1389
-saint peterÂ’s,1389
+saint peter’s,1389
+Saint Thomas (Minn.),1472
 saint-francis-pa,1384
 saint-josephs,1386
 saint-louis,1387
@@ -800,6 +792,7 @@ saint-marys,1388
 saint-marys-ca,1388
 saint-peters,1389
 saintlouis,1387
+Sam Houston,1358
 sam houston st,1358
 sam houston st.,1358
 sam houston state,1358
@@ -829,7 +822,6 @@ savannah state,1366
 savannah-st,1366
 savannah-state,1366
 sc state,1354
-sc st.,1354
 sc upstate,1367
 sd state,1361
 se louisiana,1368
@@ -871,7 +863,6 @@ south-carolina-state,1354
 south-carolina-upstate,1367
 south-dakota,1377
 south-dakota-st,1355
-s dakota st.,1355
 south-dakota-state,1355
 south-fla,1378
 south-florida,1378
@@ -880,7 +871,6 @@ southeast mo. st.,1369
 southeast-missouri-state,1369
 southeast-mo-st,1369
 southeastern la.,1368
-southeastern la,1368
 southeastern louisiana,1368
 southeastern-la,1368
 southeastern-louisiana,1368
@@ -912,7 +902,6 @@ southwest missouri state,1283
 st bonaventure,1382
 st francis (ny),1383
 st francis (pa),1384
-st. francis ny,1383
 st francis ny,1383
 st francis pa,1384
 st john's,1385
@@ -923,6 +912,7 @@ st louis,1387
 st mary's (ca),1388
 st mary's ca,1388
 st peter's,1389
+St Thomas MN,1472
 st-bonaventure,1382
 st-francis-brooklyn,1383
 st-francis-ny,1383
@@ -941,7 +931,7 @@ st. francis-ny,1383
 st. john's,1385
 st. john's (ny),1385
 st. john`s (ny),1385
-st. johnÂ’s,1385
+st. john’s,1385
 st. joseph's,1386
 st. joseph's pa,1386
 st. mary's,1388
@@ -958,6 +948,8 @@ sw missouri st.,1283
 syracuse,1393
 tam c,1394
 tam c. christi,1394
+tarleton st,1470
+Tarleton State,1470
 tcu,1395
 temple,1396
 tenn-martin,1404
@@ -978,11 +970,9 @@ texas a&m cc,1394
 texas a&m corpus,1394
 texas a&m-cc,1394
 texas a&m-corpus christi,1394
-tx am-cc,1394
 texas arlington,1426
 texas christian,1395
 texas rio grande valley,1410
-tx-rio grande,1410
 texas san antonio,1427
 texas southern,1411
 texas st,1402
@@ -1022,6 +1012,7 @@ ualr,1114
 uc davis,1413
 uc irvine,1414
 uc riverside,1415
+uc san diego,1471
 uc santa barb.,1364
 uc santa barbara,1364
 uc-davis,1413
@@ -1045,7 +1036,6 @@ umkc,1282
 unc,1314
 unc asheville,1421
 unc greensboro,1422
-greensboro,1422
 unc wilmington,1423
 unc-asheville,1421
 uncg,1422
@@ -1166,18 +1156,3 @@ youngstown st.,1464
 youngstown state,1464
 youngstown-st,1464
 youngstown-state,1464
-tennessee martin,1404
-st. francis pa,1384
-louisiana monroe,1419
-maryland eastern shore,1271
-arkansas little rock,1114
-arkansas pine bluff,1115
-bethune cookman,1126
-cal st. bakersfield,1167
-illinois chicago,1227
-louisiana lafayette,1418
-mississippi valley st.,1290
-southeast missouri st.,1369
-texas a&m corpus chris,1394
-texas pan american,1410
-ut rio grande valley,1410
