@@ -1,0 +1,1748 @@
+Team,Record,BRRtg,TeamID,Season
+kansas,31-4,2.45,1242,2016
+villanova,31-5,2.31,1437,2016
+north carolina,30-6,2.13,1314,2016
+virginia,28-7,2.09,1438,2016
+oklahoma,27-7,2.04,1328,2016
+oregon,29-6,2.02,1332,2016
+xavier,28-6,2.01,1462,2016
+michigan st.,29-6,1.96,1277,2016
+miami (fl),27-7,1.94,1274,2016
+west virginia,26-9,1.82,1452,2016
+utah,26-9,1.81,1428,2016
+indiana,27-7,1.69,1231,2016
+smu,25-5,1.68,1374,2016
+duke,25-10,1.68,1181,2016
+maryland,26-8,1.67,1268,2016
+seton hall,25-9,1.65,1371,2016
+texas a&m,28-8,1.65,1401,2016
+louisville,23-8,1.65,1257,2016
+kentucky,27-9,1.61,1246,2016
+iowa st.,23-11,1.6,1235,2016
+purdue,26-9,1.59,1345,2016
+st. joseph's,28-8,1.57,1386,2016
+arizona,25-9,1.56,1112,2016
+gonzaga,27-7,1.53,1211,2016
+st. mary's (ca),28-5,1.51,0,2016
+notre dame,23-11,1.46,1323,2016
+cal,23-11,1.46,0,2016
+providence,24-11,1.45,1344,2016
+dayton,25-8,1.44,1173,2016
+baylor,21-12,1.42,1124,2016
+iowa,22-11,1.39,1234,2016
+butler,22-11,1.38,1139,2016
+texas,20-13,1.37,1400,2016
+connecticut,25-11,1.31,1163,2016
+wisconsin,22-12,1.3,1458,2016
+south carolina,24-8,1.28,1376,2016
+wichita st.,25-9,1.28,1455,2016
+hawaii,26-6,1.24,1218,2016
+colorado,21-12,1.24,1160,2016
+ualr,28-5,1.23,1114,2016
+pittsburgh,20-12,1.22,1338,2016
+vcu,25-11,1.22,1433,2016
+texas tech,19-13,1.22,1403,2016
+san diego st.,24-9,1.21,1361,2016
+michigan,22-13,1.21,1276,2016
+valparaiso,26-6,1.2,1434,2016
+southern california,21-13,1.16,1425,2016
+syracuse,21-13,1.16,1393,2016
+oregon st.,18-13,1.15,1333,2016
+george washington,24-10,1.13,1203,2016
+georgia tech,20-14,1.13,1210,2016
+cincinnati,22-11,1.11,1153,2016
+florida,21-14,1.1,1196,2016
+chattanooga,27-6,1.08,1151,2016
+st. bonaventure,22-9,1.07,1382,2016
+florida st.,20-14,1.03,1199,2016
+temple,21-12,1.02,1396,2016
+monmouth,28-7,1.01,1284,2016
+ohio st.,21-14,1.01,1326,2016
+yale,22-7,1,1463,2016
+georgia,20-14,1,1208,2016
+virginia tech,20-15,0.99,1439,2016
+washington,19-14,0.99,1449,2016
+unc wilmington,23-8,0.97,1423,2016
+stephen f. austin,24-6,0.96,1372,2016
+vanderbilt,19-14,0.96,1435,2016
+marquette,20-13,0.94,1266,2016
+creighton,20-14,0.94,1166,2016
+tulsa,20-12,0.92,1409,2016
+akron,25-9,0.92,1103,2016
+uc-irvine,24-9,0.91,1414,2016
+byu,24-10,0.91,1140,2016
+south dakota st.,24-8,0.91,1355,2016
+grand canyon,25-6,0.9,1213,2016
+hofstra,23-10,0.9,1220,2016
+houston,22-10,0.9,1222,2016
+kansas st.,17-16,0.9,1243,2016
+fresno st.,23-10,0.89,1201,2016
+princeton,21-7,0.89,1343,2016
+stanford,14-15,0.88,1390,2016
+evansville,24-9,0.87,1191,2016
+uab,25-7,0.86,1412,2016
+northwestern,20-12,0.85,1321,2016
+alabama,18-15,0.85,1104,2016
+stony brook,24-7,0.85,1392,2016
+lsu,19-14,0.84,1261,2016
+uni,22-13,0.82,1320,2016
+mississippi,20-12,0.81,1279,2016
+davidson,19-13,0.81,1172,2016
+clemson,17-14,0.77,1155,2016
+middle tenn.,23-10,0.73,1292,2016
+ucla,15-17,0.72,1417,2016
+north carolina st.,16-17,0.67,1301,2016
+arizona st.,15-17,0.66,1113,2016
+ipfw,22-10,0.65,1236,2016
+ohio,21-11,0.64,1325,2016
+william & mary,18-11,0.63,1456,2016
+james madison,20-11,0.62,1241,2016
+georgetown,15-18,0.62,1207,2016
+boise st.,18-12,0.59,1129,2016
+a&m-corpus christi,23-8,0.59,1394,2016
+arkansas,16-16,0.57,1116,2016
+southern ill.,22-10,0.56,1356,2016
+penn st.,16-16,0.55,1336,2016
+iona,22-11,0.55,1233,2016
+long beach st.,18-15,0.54,1253,2016
+memphis,19-15,0.51,1272,2016
+texas-arlington,23-10,0.5,1426,2016
+rhode island,17-15,0.49,1348,2016
+east tenn. st.,21-11,0.48,1190,2016
+oakland,21-11,0.47,1324,2016
+richmond,16-16,0.46,1350,2016
+buffalo,19-15,0.46,1138,2016
+cal st. bakersfield,21-9,0.44,0,2016
+uc-santa barbara,17-13,0.43,1364,2016
+new mexico st.,21-11,0.43,1308,2016
+nevada,18-13,0.43,1305,2016
+illinois st.,17-14,0.42,1229,2016
+tennessee,15-19,0.42,1397,2016
+green bay,21-13,0.41,1453,2016
+illinois,15-19,0.39,1228,2016
+weber st.,23-9,0.39,1451,2016
+columbia,20-10,0.38,1162,2016
+unlv,16-15,0.38,1424,2016
+louisiana tech,21-9,0.38,1256,2016
+nebraska,16-18,0.37,1304,2016
+northeastern,17-15,0.35,1318,2016
+new mexico,17-15,0.33,1307,2016
+albany (ny),23-9,0.33,1107,2016
+kent st.,18-13,0.33,1245,2016
+belmont,19-12,0.32,1125,2016
+winthrop,20-9,0.31,1457,2016
+mississippi st.,14-17,0.3,1280,2016
+northern ill.,17-12,0.3,1296,2016
+towson,18-12,0.3,1406,2016
+old dominion,22-13,0.3,1330,2016
+oklahoma st.,12-20,0.28,1329,2016
+unc asheville,20-12,0.28,1421,2016
+wake forest,11-20,0.27,1448,2016
+duquesne,16-16,0.26,1182,2016
+siena,21-13,0.26,1373,2016
+col. of charleston,16-14,0.25,1158,2016
+wright st.,20-13,0.24,1460,2016
+ball st.,20-13,0.23,1123,2016
+pepperdine,17-14,0.23,1337,2016
+morehead st.,18-12,0.23,1287,2016
+fordham,16-14,0.21,1200,2016
+vermont,21-13,0.2,1436,2016
+tcu,12-21,0.2,1395,2016
+la.-monroe,18-14,0.18,1419,2016
+north dakota st.,18-13,0.18,1295,2016
+tennessee tech,17-11,0.17,1399,2016
+eastern mich.,14-15,0.16,1185,2016
+utah st.,14-15,0.16,1429,2016
+high point,18-11,0.15,1219,2016
+marshall,17-16,0.14,1267,2016
+milwaukee,18-13,0.14,1454,2016
+colorado st.,16-16,0.13,1161,2016
+auburn,11-20,0.1,1120,2016
+massachusetts,14-18,0.1,1269,2016
+tennessee st.,18-11,0.1,1398,2016
+coastal caro.,17-11,0.09,1157,2016
+neb.-omaha,16-14,0.09,0,2016
+la.-lafayette,17-14,0.08,1418,2016
+north florida,19-12,0.06,1316,2016
+fairfield,19-14,0.05,1193,2016
+toledo,16-15,0.02,1405,2016
+indiana st.,14-17,0.02,1232,2016
+elon,14-16,0.02,1189,2016
+montana,18-12,0.01,1285,2016
+wagner,22-11,0,1447,2016
+western ky.,16-16,-0.01,1443,2016
+central mich.,14-16,-0.04,1141,2016
+hampton,20-11,-0.05,1214,2016
+murray st.,15-14,-0.07,1293,2016
+denver,16-15,-0.09,1176,2016
+missouri,10-21,-0.1,1281,2016
+oral roberts,12-17,-0.1,1331,2016
+depaul,9-22,-0.11,1177,2016
+georgia st.,14-14,-0.13,1209,2016
+mercer,17-15,-0.13,1273,2016
+fla. gulf coast,17-14,-0.13,0,2016
+furman,17-16,-0.13,1202,2016
+wyoming,12-18,-0.13,1461,2016
+detroit,14-15,-0.13,1178,2016
+new hampshire,18-13,-0.16,1306,2016
+utep,18-14,-0.16,1431,2016
+loyola (il),14-17,-0.17,1260,2016
+george mason,11-21,-0.17,1206,2016
+idaho,19-13,-0.19,1225,2016
+ucf,12-18,-0.19,1416,2016
+boston u.,18-14,-0.19,1131,2016
+bucknell,16-14,-0.2,1137,2016
+st. louis,11-21,-0.2,0,2016
+radford,14-15,-0.21,1347,2016
+san francisco,14-15,-0.22,1362,2016
+ut martin,18-15,-0.23,1404,2016
+njit,17-14,-0.23,1312,2016
+washington st.,8-22,-0.23,1450,2016
+miami (oh),12-20,-0.23,1275,2016
+bowling green,14-18,-0.24,1132,2016
+east carolina,12-20,-0.24,1187,2016
+air force,12-18,-0.24,1102,2016
+navy,18-14,-0.25,1298,2016
+lehigh,16-15,-0.25,1250,2016
+western caro.,13-18,-0.26,1441,2016
+iupui,12-19,-0.27,1237,2016
+austin peay,16-18,-0.27,1122,2016
+harvard,12-16,-0.28,1217,2016
+western mich.,11-19,-0.28,1444,2016
+missouri st.,12-19,-0.29,1283,2016
+incarnate word,14-11,-0.29,1230,2016
+army,18-14,-0.29,1119,2016
+south dakota,12-18,-0.3,1377,2016
+loyola marymount,13-17,-0.32,1258,2016
+eastern ky.,14-16,-0.35,1184,2016
+wofford,13-17,-0.35,1459,2016
+tulane,12-22,-0.37,1408,2016
+texas southern,18-15,-0.38,1411,2016
+southern u.,19-13,-0.38,1380,2016
+la salle,8-22,-0.39,1247,2016
+minnesota,8-23,-0.39,1278,2016
+charlotte,14-19,-0.4,1150,2016
+gardner-webb,14-16,-0.4,1205,2016
+south carolina st.,17-15,-0.43,1354,2016
+eastern wash.,16-15,-0.43,1186,2016
+st. peter's,14-16,-0.43,1389,2016
+sam houston st.,15-15,-0.45,1358,2016
+north dakota,14-16,-0.45,1315,2016
+fairleigh dickinson,17-15,-0.46,1192,2016
+st. john's (ny),7-24,-0.47,1385,2016
+canisius,14-19,-0.48,1145,2016
+texas st.,13-16,-0.49,1402,2016
+unc greensboro,12-18,-0.49,1422,2016
+ga. southern,12-17,-0.51,1204,2016
+manhattan,13-18,-0.52,1264,2016
+portland,11-20,-0.53,1339,2016
+south ala.,12-19,-0.54,1375,2016
+jackson st.,18-16,-0.56,1238,2016
+santa clara,10-20,-0.58,1365,2016
+south fla.,8-25,-0.58,1378,2016
+boston college,7-25,-0.59,1130,2016
+seattle,13-16,-0.59,1370,2016
+norfolk st.,15-17,-0.61,1313,2016
+uc-riverside,12-19,-0.63,1415,2016
+idaho st.,14-15,-0.64,1226,2016
+eastern ill.,11-17,-0.64,1183,2016
+rider,13-20,-0.64,1351,2016
+colgate,12-17,-0.65,1159,2016
+houston baptist,13-17,-0.65,1223,2016
+cal poly,8-20,-0.66,1142,2016
+holy cross,15-20,-0.67,1221,2016
+samford,12-19,-0.67,1359,2016
+montana st.,13-17,-0.68,1286,2016
+sacramento st.,12-17,-0.69,1170,2016
+long island,16-15,-0.7,1254,2016
+western ill.,7-17,-0.7,1442,2016
+american,12-19,-0.72,1110,2016
+penn,10-17,-0.72,1335,2016
+cornell,9-18,-0.74,1165,2016
+jacksonville,12-16,-0.75,1239,2016
+uc-davis,9-19,-0.75,1413,2016
+fiu,11-19,-0.77,1198,2016
+rice,10-20,-0.78,1349,2016
+liberty,10-19,-0.78,1251,2016
+appalachian st.,9-22,-0.79,1111,2016
+savannah st.,14-16,-0.79,1366,2016
+arkansas st.,9-20,-0.8,1117,2016
+drexel,6-24,-0.81,1180,2016
+mt. st. mary's,14-19,-0.81,1291,2016
+st. francis (ny),14-17,-0.81,1383,2016
+youngstown st.,9-21,-0.83,1464,2016
+san diego,8-21,-0.83,1360,2016
+kennesaw st.,9-20,-0.83,1244,2016
+umkc,9-19,-0.83,1282,2016
+north texas,10-20,-0.84,1317,2016
+pacific,6-20,-0.85,1334,2016
+dartmouth,9-18,-0.86,1171,2016
+st. francis (pa),12-17,-0.86,1384,2016
+portland st.,11-18,-0.86,1340,2016
+san jose st.,6-22,-0.86,1363,2016
+cal st. northridge,8-20,-0.86,1169,2016
+lipscomb,10-21,-0.86,1252,2016
+rutgers,6-25,-0.87,1353,2016
+alcorn st.,13-15,-0.87,1108,2016
+cal st. fullerton,8-20,-0.89,1168,2016
+delaware,7-23,-0.89,1174,2016
+mass.-lowell,10-18,-0.9,0,2016
+utah valley,9-18,-0.93,1430,2016
+sacred heart,12-18,-0.93,1357,2016
+alabama st.,12-17,-0.95,1106,2016
+cleveland st.,7-23,-0.96,1156,2016
+loyola maryland,9-21,-0.97,1259,2016
+campbell,9-18,-1.01,1144,2016
+northern ky.,7-21,-1.02,1297,2016
+bethune-cookman,12-18,-1.05,1126,2016
+quinnipiac,9-21,-1.05,1346,2016
+troy,7-22,-1.07,1407,2016
+southern miss.,7-20,-1.1,1379,2016
+presbyterian,8-20,-1.1,1342,2016
+drake,6-24,-1.1,1179,2016
+northern colo.,8-21,-1.13,1294,2016
+charleston so.,6-21,-1.15,1149,2016
+vmi,6-21,-1.15,1440,2016
+stetson,8-22,-1.15,1391,2016
+robert morris,10-22,-1.15,1352,2016
+fla. atlantic,7-24,-1.17,1194,2016
+brown,7-20,-1.18,1135,2016
+hartford,9-23,-1.19,1216,2016
+siu edwardsville,6-22,-1.19,1188,2016
+abilene christian,9-18,-1.22,1101,2016
+citadel,7-22,-1.22,1154,2016
+howard,10-20,-1.22,1224,2016
+s.c. upstate,7-21,-1.22,0,2016
+binghamton,8-22,-1.25,1127,2016
+marist,7-23,-1.25,1265,2016
+n.c. central,10-19,-1.26,1300,2016
+longwood,7-23,-1.27,1255,2016
+bradley,4-27,-1.27,1133,2016
+alabama a&m,10-18,-1.29,1105,2016
+maine,8-22,-1.3,1263,2016
+md.-east. shore,9-22,-1.32,0,2016
+jacksonville st.,6-23,-1.32,1240,2016
+niagara,7-25,-1.33,1310,2016
+n.c. a&t,10-21,-1.34,1299,2016
+southeastern la.,10-21,-1.39,1368,2016
+lafayette,6-24,-1.4,1248,2016
+nicholls st.,8-23,-1.44,1311,2016
+morgan st.,8-22,-1.45,1288,2016
+bryant,7-23,-1.47,1136,2016
+coppin st.,7-22,-1.49,1164,2016
+ark.-pine bluff,8-25,-1.5,1115,2016
+umbc,7-25,-1.51,1420,2016
+lamar,7-19,-1.52,1249,2016
+mcneese st.,7-19,-1.53,1270,2016
+prairie view,7-24,-1.56,1341,2016
+texas-rio grande valley,5-22,-1.59,1410,2016
+new orleans,7-20,-1.6,1309,2016
+central ark.,7-21,-1.62,1146,2016
+ill.-chicago,3-25,-1.64,1227,2016
+mississippi val.,8-27,-1.66,1290,2016
+northwestern st.,5-19,-1.7,1322,2016
+southern utah,4-24,-1.74,1381,2016
+southeast mo. st.,3-24,-1.75,1369,2016
+florida a&m,6-21,-1.76,1197,2016
+utsa,4-26,-1.77,1427,2016
+northern ariz.,3-25,-1.79,1319,2016
+delaware st.,5-25,-1.82,1175,2016
+grambling,4-24,-2.01,1212,2016
+central conn. st.,4-25,-2.01,1148,2016
+chicago st.,1-28,-2.23,1152,2016
+gonzaga,32-1,2.57,1211,2017
+villanova,31-3,2.51,1437,2017
+arizona,30-4,2.37,1112,2017
+kansas,28-4,2.27,1242,2017
+ucla,29-4,2.27,1417,2017
+kentucky,29-5,2.21,1246,2017
+oregon,28-5,2.07,1332,2017
+unc,26-7,2.01,1314,2017
+duke,27-8,2,1181,2017
+smu,30-4,1.98,1374,2017
+saint mary's (ca),28-4,1.92,1388,2017
+louisville,24-8,1.91,1257,2017
+baylor,24-7,1.89,1124,2017
+cincinnati,29-5,1.87,1153,2017
+florida state,25-8,1.82,1199,2017
+florida,24-8,1.79,1196,2017
+notre dame,25-9,1.79,1323,2017
+purdue,25-7,1.78,1345,2017
+butler,23-8,1.72,1139,2017
+wichita state,29-4,1.7,1455,2017
+west virginia,26-8,1.67,1452,2017
+virginia,22-10,1.66,1438,2017
+creighton,24-9,1.63,1166,2017
+wisconsin,25-9,1.61,1458,2017
+minnesota,24-9,1.59,1278,2017
+iowa state,23-10,1.57,1235,2017
+maryland,23-8,1.55,1268,2017
+michigan,24-11,1.51,1276,2017
+arkansas,25-9,1.47,1116,2017
+virginia tech,22-10,1.44,1439,2017
+usc,24-9,1.44,1425,2017
+miami (fl),21-11,1.42,1274,2017
+middle tennessee,29-4,1.41,1292,2017
+vcu,26-8,1.4,1433,2017
+dayton,23-7,1.39,1173,2017
+northwestern,23-11,1.36,1321,2017
+north carolina-wilmington,27-5,1.36,1423,2017
+nevada,28-6,1.36,1305,2017
+seton hall,21-11,1.34,1371,2017
+south carolina,21-10,1.32,1376,2017
+xavier,21-13,1.29,1462,2017
+oklahoma state,19-12,1.27,1329,2017
+illinois state,26-6,1.26,1229,2017
+rhode island,24-9,1.25,1348,2017
+vermont,28-5,1.25,1436,2017
+wake forest,19-13,1.2,1448,2017
+marquette,19-12,1.18,1266,2017
+michigan state,19-14,1.16,1277,2017
+providence,20-12,1.14,1344,2017
+kansas state,20-13,1.11,1243,2017
+vanderbilt,19-15,1.1,1435,2017
+university of california,21-12,1.08,1143,2017
+monmouth,27-6,1.07,1284,2017
+new mexico state,25-5,1.04,1308,2017
+georgia,18-14,1.04,1208,2017
+clemson,17-15,1,1155,2017
+etsu,25-7,1,1190,2017
+illinois,17-14,0.99,1228,2017
+houston,21-10,0.99,1222,2017
+ole miss,20-13,0.97,1279,2017
+texas christian,18-15,0.96,1395,2017
+syracuse,18-14,0.95,1393,2017
+indiana,18-15,0.95,1231,2017
+princeton,22-6,0.94,1343,2017
+iowa,18-14,0.93,1234,2017
+college of charleston,24-9,0.92,1158,2017
+winthrop,24-6,0.88,1457,2017
+byu,22-11,0.88,1140,2017
+texas-arlington,23-8,0.88,1426,2017
+alabama,19-14,0.87,1104,2017
+ucf,21-11,0.85,1416,2017
+belmont,21-6,0.85,1125,2017
+pitt,16-17,0.84,1338,2017
+valparaiso,23-8,0.83,1434,2017
+utah,18-11,0.82,1428,2017
+akron,25-8,0.8,1103,2017
+georgia tech,16-15,0.78,1210,2017
+bucknell,26-8,0.78,1137,2017
+ohio state,17-15,0.78,1326,2017
+tennessee,15-16,0.77,1397,2017
+colorado state,21-11,0.76,1161,2017
+texas tech,18-14,0.76,1403,2017
+richmond,20-12,0.74,1350,2017
+texas a&m,16-15,0.73,1401,2017
+florida gulf coast,23-7,0.72,1195,2017
+colorado,18-14,0.72,1160,2017
+boise state,18-11,0.69,1129,2017
+north carolina-greensboro,22-9,0.68,1422,2017
+auburn,18-14,0.68,1120,2017
+penn state,15-18,0.62,1336,2017
+st. bonaventure,20-12,0.62,1382,2017
+oakland,22-8,0.61,1324,2017
+memphis,19-13,0.61,1272,2017
+georgetown,14-18,0.6,1207,2017
+north carolina-asheville,21-9,0.58,1421,2017
+north carolina state,15-17,0.57,1301,2017
+george washington,19-14,0.57,1203,2017
+davidson,17-15,0.55,1172,2017
+george mason,19-13,0.54,1206,2017
+fresno state,18-12,0.53,1201,2017
+cal state bakersfield,19-9,0.51,1167,2017
+san francisco,19-12,0.51,1362,2017
+stanford,13-17,0.49,1390,2017
+new mexico,17-14,0.48,1307,2017
+mississippi state,16-16,0.46,1280,2017
+nebraska,11-19,0.46,1304,2017
+san diego state,18-14,0.44,1361,2017
+northern kentucky,22-10,0.44,1297,2017
+arizona state,15-18,0.44,1113,2017
+grand canyon,20-9,0.43,1213,2017
+st. john's (ny),14-19,0.4,1385,2017
+uconn,15-17,0.38,1163,2017
+temple,16-16,0.37,1396,2017
+iona,22-12,0.37,1233,2017
+towson,19-13,0.35,1406,2017
+furman,19-11,0.34,1202,2017
+louisiana tech,21-10,0.33,1256,2017
+rutgers,14-18,0.3,1353,2017
+la salle,15-15,0.3,1247,2017
+ohio,19-11,0.3,1325,2017
+georgia state,18-12,0.3,1209,2017
+old dominion,19-12,0.28,1330,2017
+oklahoma,11-20,0.28,1328,2017
+louisiana-lafayette,19-12,0.28,1418,2017
+south dakota,20-11,0.28,1377,2017
+texas,11-22,0.27,1400,2017
+wright state,18-12,0.25,1460,2017
+arkansas state,19-12,0.25,1117,2017
+tulsa,15-17,0.24,1409,2017
+kent state,21-13,0.24,1245,2017
+harvard,16-10,0.23,1217,2017
+santa clara,16-16,0.23,1365,2017
+north dakota state,17-11,0.23,1295,2017
+wyoming,16-14,0.23,1461,2017
+chattanooga,17-12,0.22,1151,2017
+yale,16-11,0.19,1463,2017
+lehigh,19-12,0.18,1250,2017
+ball state,20-12,0.17,1123,2017
+rice,20-11,0.16,1349,2017
+washington state,12-18,0.16,1450,2017
+st. peter's,19-13,0.14,1389,2017
+marshall,19-15,0.14,1267,2017
+albany (ny),20-13,0.14,1107,2017
+southern illinois,16-16,0.14,1356,2017
+william & mary,15-14,0.13,1456,2017
+loyola marymount,14-15,0.12,1258,2017
+north dakota,19-9,0.12,1315,2017
+texas southern,23-11,0.11,1411,2017
+eastern washington,20-11,0.1,1186,2017
+loyola (il),16-14,0.1,1260,2017
+troy,20-14,0.09,1407,2017
+nebraska-omaha,17-14,0.09,1303,2017
+northern iowa,13-16,0.08,1320,2017
+new hampshire,17-12,0.07,1306,2017
+elon,16-14,0.06,1189,2017
+umass,15-18,0.06,1269,2017
+uc-irvine,19-14,0.05,1414,2017
+new orleans,17-11,0.05,1309,2017
+ipfw,16-12,0.04,1236,2017
+georgia southern,16-14,0.04,1204,2017
+ut-martin,19-12,0.04,1404,2017
+lsu,10-21,0.03,1261,2017
+siena,17-17,0.01,1373,2017
+green bay,16-13,0.01,1453,2017
+utah state,13-17,0.01,1429,2017
+northeastern,15-16,0.01,1318,2017
+samford,17-15,0,1359,2017
+buffalo,15-15,0,1138,2017
+toledo,16-16,-0.02,1405,2017
+missouri state,16-16,-0.03,1283,2017
+texas state,18-13,-0.03,1402,2017
+liberty,16-13,-0.03,1251,2017
+stony brook,18-13,-0.03,1392,2017
+texas a&m-corpus christi,17-11,-0.05,1394,2017
+uc-davis,20-12,-0.06,1413,2017
+canisius,18-15,-0.06,1145,2017
+evansville,14-17,-0.06,1191,2017
+tennessee state,15-13,-0.07,1398,2017
+san jose state,12-16,-0.07,1363,2017
+western michigan,15-16,-0.07,1444,2017
+east carolina,15-18,-0.08,1187,2017
+jacksonville state,18-14,-0.08,1240,2017
+gardner-webb,16-14,-0.08,1205,2017
+umbc,16-12,-0.08,1420,2017
+south dakota state,16-16,-0.09,1355,2017
+north carolina central,22-8,-0.1,1300,2017
+fairfield,16-14,-0.11,1193,2017
+lipscomb,17-13,-0.11,1252,2017
+boston university,17-14,-0.12,1131,2017
+coastal carolina,14-17,-0.12,1157,2017
+mount st. mary's,19-15,-0.14,1291,2017
+wofford,13-17,-0.14,1459,2017
+mercer,13-17,-0.15,1273,2017
+boston college,9-23,-0.15,1130,2017
+weber state,16-13,-0.16,1451,2017
+sam houston state,17-13,-0.17,1358,2017
+umkc,14-16,-0.17,1282,2017
+rider,18-15,-0.18,1351,2017
+alabama-birmingham,16-16,-0.18,1412,2017
+st. joseph's,11-20,-0.18,1386,2017
+denver,16-14,-0.19,1176,2017
+fordham,12-19,-0.19,1200,2017
+eastern michigan,12-17,-0.22,1185,2017
+hofstra,14-17,-0.23,1220,2017
+houston baptist,13-13,-0.24,1223,2017
+penn,13-15,-0.25,1335,2017
+idaho,16-13,-0.26,1225,2017
+washington,9-22,-0.27,1449,2017
+san diego,12-18,-0.27,1360,2017
+central michigan,14-16,-0.28,1141,2017
+depaul,9-23,-0.28,1177,2017
+saint louis,12-21,-0.3,1387,2017
+liu-brooklyn,19-12,-0.31,1254,2017
+stephen f. austin,15-14,-0.31,1372,2017
+montana,16-16,-0.32,1285,2017
+navy,15-16,-0.33,1298,2017
+bradley,12-20,-0.34,1133,2017
+morehead state,12-16,-0.35,1287,2017
+unlv,11-21,-0.37,1424,2017
+utep,14-17,-0.38,1431,2017
+holy cross,15-17,-0.39,1221,2017
+western kentucky,15-17,-0.39,1443,2017
+utah valley,12-16,-0.4,1430,2017
+loyola (md),14-16,-0.4,1259,2017
+missouri,8-24,-0.41,1281,2017
+murray state,14-17,-0.42,1293,2017
+indiana state,10-20,-0.43,1232,2017
+arkansas-little rock,13-17,-0.45,1114,2017
+bowling green state,12-19,-0.45,1132,2017
+charlotte,12-17,-0.46,1150,2017
+air force,10-21,-0.46,1102,2017
+iupui,12-18,-0.46,1237,2017
+south alabama,12-18,-0.47,1375,2017
+lamar,15-14,-0.48,1249,2017
+northern illinois,12-17,-0.48,1296,2017
+south carolina upstate,13-15,-0.48,1367,2017
+high point,12-16,-0.49,1219,2017
+long beach state,13-19,-0.5,1253,2017
+radford,12-18,-0.51,1347,2017
+cal state fullerton,15-14,-0.52,1168,2017
+pacific,10-22,-0.52,1334,2017
+uic,13-18,-0.53,1227,2017
+wagner,15-14,-0.55,1447,2017
+delaware,11-20,-0.55,1174,2017
+duquesne,10-22,-0.55,1182,2017
+campbell,14-17,-0.56,1144,2017
+montana state,14-16,-0.57,1286,2017
+eastern illinois,12-15,-0.58,1183,2017
+north florida,11-19,-0.61,1316,2017
+hawaii,13-16,-0.62,1218,2017
+portland,9-22,-0.64,1339,2017
+southeast missouri state,13-18,-0.65,1369,2017
+southeastern louisiana,14-16,-0.65,1368,2017
+youngstown state,11-21,-0.67,1464,2017
+robert morris,14-19,-0.67,1352,2017
+columbia,10-16,-0.68,1162,2017
+pepperdine,8-22,-0.68,1337,2017
+alcorn state,15-14,-0.69,1108,2017
+saint francis (pa),15-16,-0.69,1384,2017
+eastern kentucky,10-19,-0.71,1184,2017
+utsa,12-19,-0.72,1427,2017
+army,12-19,-0.74,1119,2017
+portland state,12-16,-0.75,1340,2017
+nicholls state,10-17,-0.75,1311,2017
+norfolk state,15-16,-0.76,1313,2017
+brown,11-17,-0.76,1135,2017
+seattle,10-17,-0.77,1370,2017
+jacksonville,13-15,-0.78,1239,2017
+james madison,9-23,-0.78,1241,2017
+miami (oh),9-21,-0.79,1275,2017
+milwaukee,10-24,-0.8,1454,2017
+kennesaw state,12-18,-0.8,1244,2017
+austin peay,9-19,-0.8,1122,2017
+manhattan,10-22,-0.81,1264,2017
+quinnipiac,10-21,-0.83,1346,2017
+citadel,9-21,-0.83,1154,2017
+tennessee tech,10-20,-0.84,1399,2017
+abilene christian,9-16,-0.85,1101,2017
+cleveland state,8-22,-0.86,1156,2017
+cal state northridge,10-18,-0.86,1169,2017
+sacramento state,11-18,-0.87,1170,2017
+northwestern state,9-16,-0.89,1322,2017
+incarnate word,8-17,-0.89,1230,2017
+niagara,10-23,-0.89,1310,2017
+oral roberts,6-22,-0.89,1331,2017
+appalachian state,7-21,-0.9,1111,2017
+sacred heart,13-19,-0.91,1357,2017
+south florida,7-23,-0.92,1378,2017
+charleston southern,9-19,-0.94,1149,2017
+hampton,12-16,-0.95,1214,2017
+cal poly,9-20,-0.96,1142,2017
+florida atlantic,8-20,-0.96,1194,2017
+fairleigh dickinson,10-19,-0.97,1192,2017
+bryant,11-20,-0.98,1136,2017
+western carolina,7-23,-0.98,1441,2017
+njit,9-20,-0.99,1312,2017
+tulane,6-25,-0.99,1408,2017
+drake,6-23,-0.99,1179,2017
+umass-lowell,10-20,-0.99,1262,2017
+drexel,8-23,-1,1180,2017
+detroit,7-23,-1,1178,2017
+cornell,7-20,-1.02,1165,2017
+marist,8-24,-1.03,1265,2017
+northern colorado,9-18,-1.04,1294,2017
+savannah state,11-16,-1.04,1366,2017
+colgate,9-22,-1.04,1159,2017
+morgan state,13-16,-1.05,1288,2017
+louisiana-monroe,7-24,-1.06,1419,2017
+oregon state,4-27,-1.07,1333,2017
+binghamton,9-20,-1.08,1127,2017
+dartmouth,7-20,-1.1,1171,2017
+southern,13-17,-1.12,1380,2017
+central arkansas,8-24,-1.13,1146,2017
+lafayette,8-21,-1.15,1248,2017
+maryland-eastern shore,12-20,-1.15,1271,2017
+grambling,13-17,-1.15,1212,2017
+american,8-22,-1.15,1110,2017
+western illinois,6-20,-1.15,1442,2017
+jackson state,12-17,-1.16,1238,2017
+texas-rio grande valley,7-22,-1.18,1410,2017
+hartford,9-23,-1.18,1216,2017
+prairie view,11-20,-1.2,1341,2017
+stetson,8-21,-1.22,1391,2017
+southern miss,7-22,-1.26,1379,2017
+uc-riverside,6-21,-1.29,1415,2017
+south carolina state,9-20,-1.29,1354,2017
+northern arizona,8-23,-1.31,1319,2017
+ucsb,5-22,-1.31,1364,2017
+mcneese state,5-21,-1.33,1270,2017
+north texas,6-22,-1.36,1317,2017
+southern illinois-edwardsville,5-23,-1.38,1188,2017
+virginia military institute,4-24,-1.41,1440,2017
+maine,6-25,-1.44,1263,2017
+florida international,5-24,-1.49,1198,2017
+delaware state,8-22,-1.61,1175,2017
+chicago state,3-26,-1.62,1152,2017
+central connecticut,6-23,-1.65,1148,2017
+howard,8-24,-1.67,1224,2017
+coppin state,7-23,-1.68,1164,2017
+bethune-cookman,8-22,-1.7,1126,2017
+longwood,4-24,-1.7,1255,2017
+mississippi valley state,7-25,-1.7,1290,2017
+idaho state,4-25,-1.73,1226,2017
+alabama state,7-23,-1.75,1106,2017
+presbyterian,3-25,-1.8,1342,2017
+southern utah,4-27,-1.82,1381,2017
+arkansas-pine bluff,6-24,-1.88,1115,2017
+st. francis (ny),3-27,-2.12,1383,2017
+florida a&m,5-23,-2.13,1197,2017
+alabama a&m,2-27,-2.57,1105,2017
+north carolina a&t,1-29,-2.7,1299,2017
+villanova,36-4,2.59,1437,2018
+virginia,31-3,2.51,1438,2018
+kansas,31-8,2.18,1242,2018
+xavier,29-6,2.12,1462,2018
+cincinnati,31-5,2.09,1153,2018
+michigan state,30-5,2.07,1277,2018
+michigan,32-8,2.03,1276,2018
+purdue,30-7,1.99,1345,2018
+duke,29-8,1.95,1181,2018
+gonzaga,32-5,1.92,1211,2018
+tennessee,26-9,1.83,1397,2018
+unc,26-11,1.8,1314,2018
+texas tech,27-10,1.77,1403,2018
+west virginia,26-11,1.73,1452,2018
+auburn,26-8,1.72,1120,2018
+clemson,25-10,1.7,1155,2018
+kentucky,26-11,1.7,1246,2018
+ohio state,25-9,1.67,1326,2018
+arizona,27-8,1.67,1112,2018
+loyola (il),31-6,1.64,1260,2018
+wichita state,25-8,1.6,1455,2018
+nevada,29-8,1.58,1305,2018
+houston,27-8,1.55,1222,2018
+kansas state,25-12,1.51,1243,2018
+saint mary's (ca),30-6,1.47,1388,2018
+rhode island,26-8,1.47,1348,2018
+texas a&m,22-13,1.46,1401,2018
+arkansas,23-12,1.44,1116,2018
+texas christian,21-12,1.4,1395,2018
+florida,21-13,1.38,1196,2018
+seton hall,22-12,1.38,1371,2018
+florida state,23-12,1.38,1199,2018
+miami (fl),22-10,1.37,1274,2018
+st. bonaventure,26-8,1.31,1382,2018
+syracuse,23-14,1.3,1393,2018
+butler,21-14,1.3,1139,2018
+mississippi state,24-12,1.29,1280,2018
+creighton,20-12,1.27,1166,2018
+louisville,22-14,1.26,1257,2018
+providence,21-14,1.26,1344,2018
+penn state,26-13,1.25,1336,2018
+utah,23-12,1.23,1428,2018
+middle tennessee,24-8,1.22,1292,2018
+new mexico state,25-6,1.22,1308,2018
+usc,24-12,1.21,1425,2018
+virginia tech,21-12,1.21,1439,2018
+marquette,21-14,1.2,1266,2018
+texas,19-15,1.2,1400,2018
+alabama,20-16,1.2,1104,2018
+nebraska,22-11,1.2,1304,2018
+ucla,21-12,1.19,1417,2018
+oklahoma state,21-15,1.19,1329,2018
+north carolina state,21-12,1.19,1301,2018
+oklahoma,18-14,1.18,1328,2018
+missouri,19-13,1.17,1281,2018
+buffalo,26-9,1.16,1138,2018
+arizona state,20-12,1.13,1113,2018
+south dakota state,24-7,1.12,1355,2018
+murray state,24-6,1.12,1293,2018
+western kentucky,26-11,1.12,1443,2018
+baylor,18-15,1.07,1124,2018
+washington,21-13,1.06,1449,2018
+old dominion,25-7,1.05,1330,2018
+boise state,22-9,1.05,1129,2018
+oregon,23-13,1.04,1332,2018
+georgia,18-15,0.99,1208,2018
+lsu,18-15,0.98,1261,2018
+notre dame,20-15,0.96,1323,2018
+maryland,18-13,0.96,1268,2018
+san diego state,21-11,0.94,1361,2018
+vermont,26-8,0.88,1436,2018
+byu,24-11,0.88,1140,2018
+montana,24-8,0.86,1285,2018
+louisiana-lafayette,25-7,0.84,1418,2018
+south carolina,16-16,0.84,1376,2018
+ucf,19-13,0.83,1416,2018
+stanford,19-16,0.83,1390,2018
+davidson,21-12,0.83,1172,2018
+college of charleston,24-8,0.82,1158,2018
+belmont,24-9,0.81,1125,2018
+boston college,19-16,0.81,1130,2018
+temple,17-16,0.8,1396,2018
+north carolina-greensboro,24-8,0.79,1422,2018
+st. john's (ny),15-17,0.79,1385,2018
+marshall,24-11,0.79,1267,2018
+colorado,17-15,0.77,1160,2018
+tulsa,19-12,0.77,1409,2018
+northeastern,22-10,0.75,1318,2018
+memphis,21-13,0.72,1272,2018
+fresno state,19-11,0.68,1201,2018
+toledo,22-11,0.67,1405,2018
+etsu,23-9,0.67,1190,2018
+stephen f. austin,24-7,0.65,1372,2018
+south dakota,22-9,0.64,1377,2018
+wyoming,19-13,0.63,1461,2018
+indiana,16-15,0.61,1231,2018
+wisconsin,15-18,0.58,1458,2018
+unlv,20-13,0.58,1424,2018
+furman,21-10,0.57,1202,2018
+bucknell,25-10,0.56,1137,2018
+iowa state,13-18,0.56,1235,2018
+penn,23-9,0.54,1335,2018
+smu,17-16,0.54,1374,2018
+illinois state,17-15,0.53,1229,2018
+southern illinois,19-13,0.52,1356,2018
+rider,22-10,0.51,1351,2018
+bradley,19-13,0.51,1133,2018
+georgetown,15-15,0.51,1207,2018
+vanderbilt,12-20,0.51,1435,2018
+utah valley,20-11,0.5,1430,2018
+ucsb,21-9,0.5,1364,2018
+oregon state,16-16,0.5,1333,2018
+wright state,23-10,0.49,1460,2018
+uc-davis,20-11,0.49,1413,2018
+northern colorado,23-12,0.48,1294,2018
+new mexico,18-15,0.45,1307,2018
+umbc,22-11,0.43,1420,2018
+vcu,18-15,0.42,1433,2018
+idaho,20-9,0.42,1225,2018
+ole miss,12-20,0.41,1279,2018
+minnesota,15-17,0.4,1278,2018
+lipscomb,20-10,0.4,1252,2018
+northwestern,14-17,0.39,1321,2018
+william & mary,17-12,0.39,1456,2018
+northern kentucky,20-10,0.38,1297,2018
+uconn,14-18,0.36,1163,2018
+northern iowa,14-16,0.33,1320,2018
+georgia state,22-11,0.33,1209,2018
+san francisco,21-17,0.33,1362,2018
+cal state fullerton,18-12,0.32,1168,2018
+san diego,19-14,0.32,1360,2018
+ball state,18-13,0.3,1123,2018
+alabama-birmingham,18-13,0.3,1412,2018
+hofstra,18-12,0.3,1220,2018
+missouri state,17-15,0.29,1283,2018
+georgia tech,13-19,0.29,1210,2018
+iowa,14-19,0.27,1234,2018
+saint louis,16-16,0.26,1387,2018
+eastern michigan,18-13,0.26,1185,2018
+wofford,18-13,0.25,1459,2018
+illinois,13-18,0.23,1228,2018
+grand canyon,21-12,0.23,1213,2018
+texas-arlington,20-13,0.23,1426,2018
+jacksonville state,22-13,0.22,1240,2018
+evansville,15-15,0.21,1191,2018
+st. joseph's,16-16,0.21,1386,2018
+albany (ny),21-10,0.2,1107,2018
+weber state,17-11,0.18,1451,2018
+rutgers,14-19,0.18,1353,2018
+radford,21-13,0.18,1347,2018
+utah state,16-17,0.17,1429,2018
+dayton,14-17,0.17,1173,2018
+wagner,21-10,0.17,1447,2018
+north carolina-asheville,19-13,0.15,1421,2018
+iona,20-14,0.15,1233,2018
+canisius,21-12,0.14,1145,2018
+florida gulf coast,20-12,0.14,1195,2018
+eastern washington,18-15,0.14,1186,2018
+wake forest,11-20,0.13,1448,2018
+drake,16-17,0.13,1179,2018
+washington state,12-19,0.12,1450,2018
+tulane,14-17,0.12,1408,2018
+depaul,11-20,0.11,1177,2018
+central michigan,18-15,0.1,1141,2018
+georgia southern,19-12,0.1,1204,2018
+uc-irvine,16-17,0.08,1414,2018
+portland state,17-14,0.06,1340,2018
+nicholls state,17-11,0.05,1311,2018
+kent state,16-17,0.05,1245,2018
+western michigan,15-15,0.04,1444,2018
+towson,16-14,0.03,1406,2018
+harvard,17-14,0.03,1217,2018
+george washington,15-18,0.02,1203,2018
+seattle,17-14,0.02,1370,2018
+austin peay,17-15,0.02,1122,2018
+tennessee tech,17-14,0.01,1399,2018
+southeastern louisiana,19-12,0,1368,2018
+mercer,17-15,0,1273,2018
+george mason,16-17,-0.01,1206,2018
+utsa,17-15,-0.02,1427,2018
+hawaii,15-13,-0.02,1218,2018
+niagara,19-14,-0.02,1310,2018
+oakland,19-14,-0.04,1324,2018
+valparaiso,13-17,-0.04,1434,2018
+indiana state,11-18,-0.05,1232,2018
+winthrop,16-12,-0.06,1457,2018
+north texas,18-18,-0.06,1317,2018
+louisiana tech,15-16,-0.06,1256,2018
+richmond,12-20,-0.11,1350,2018
+miami (oh),14-18,-0.12,1275,2018
+la salle,13-19,-0.12,1247,2018
+ohio,13-17,-0.15,1325,2018
+pacific,13-18,-0.16,1334,2018
+long beach state,13-18,-0.17,1253,2018
+duquesne,16-16,-0.18,1182,2018
+liberty,19-15,-0.18,1251,2018
+navy,19-12,-0.19,1298,2018
+sam houston state,17-15,-0.19,1358,2018
+bowling green state,14-16,-0.19,1132,2018
+hartford,18-14,-0.2,1216,2018
+uic,18-16,-0.21,1227,2018
+fairfield,17-16,-0.22,1193,2018
+umass,13-20,-0.24,1269,2018
+colgate,18-14,-0.27,1159,2018
+tennessee state,13-15,-0.28,1398,2018
+yale,15-15,-0.28,1463,2018
+akron,13-18,-0.28,1103,2018
+ipfw,14-15,-0.29,1236,2018
+saint francis (pa),16-13,-0.3,1384,2018
+southern miss,12-18,-0.3,1379,2018
+denver,13-15,-0.31,1176,2018
+milwaukee,15-16,-0.32,1454,2018
+troy,14-17,-0.34,1407,2018
+university of california,8-23,-0.35,1143,2018
+pitt,8-24,-0.36,1338,2018
+elon,12-18,-0.37,1189,2018
+north dakota state,12-17,-0.39,1295,2018
+colorado state,10-21,-0.39,1161,2018
+central arkansas,17-17,-0.41,1146,2018
+northern illinois,11-19,-0.41,1296,2018
+lehigh,15-14,-0.43,1250,2018
+lamar,15-14,-0.44,1249,2018
+princeton,12-16,-0.46,1343,2018
+drexel,12-20,-0.46,1180,2018
+robert morris,16-17,-0.47,1352,2018
+manhattan,14-17,-0.47,1264,2018
+delaware,12-19,-0.48,1174,2018
+louisiana-monroe,13-16,-0.48,1419,2018
+mount st. mary's,16-14,-0.49,1291,2018
+campbell,15-16,-0.5,1144,2018
+air force,10-19,-0.5,1102,2018
+texas-rio grande valley,13-18,-0.51,1410,2018
+monmouth,11-20,-0.54,1284,2018
+western carolina,11-19,-0.55,1441,2018
+liu-brooklyn,17-17,-0.56,1254,2018
+appalachian state,13-18,-0.56,1111,2018
+southern utah,11-19,-0.57,1381,2018
+east carolina,10-20,-0.57,1187,2018
+idaho state,12-16,-0.57,1226,2018
+stony brook,12-19,-0.58,1392,2018
+cal state bakersfield,9-18,-0.58,1167,2018
+boston university,14-16,-0.59,1131,2018
+north dakota,10-20,-0.6,1315,2018
+st. peter's,14-18,-0.6,1389,2018
+southeast missouri state,12-17,-0.62,1369,2018
+loyola marymount,10-20,-0.63,1258,2018
+north florida,11-19,-0.64,1316,2018
+texas state,13-18,-0.64,1402,2018
+cornell,11-16,-0.64,1165,2018
+coastal carolina,11-18,-0.65,1157,2018
+charleston southern,12-16,-0.65,1149,2018
+santa clara,10-19,-0.65,1365,2018
+north carolina a&t,18-15,-0.66,1299,2018
+njit,12-16,-0.66,1312,2018
+north carolina-wilmington,9-21,-0.66,1423,2018
+savannah state,13-17,-0.66,1366,2018
+south alabama,12-18,-0.67,1375,2018
+gardner-webb,11-18,-0.67,1205,2018
+florida international,11-18,-0.68,1198,2018
+south florida,10-22,-0.68,1378,2018
+new orleans,13-17,-0.69,1309,2018
+hampton,16-16,-0.69,1214,2018
+high point,11-16,-0.69,1219,2018
+fordham,9-22,-0.7,1200,2018
+utep,10-20,-0.7,1431,2018
+grambling,16-14,-0.71,1212,2018
+texas southern,16-20,-0.71,1411,2018
+oral roberts,8-20,-0.73,1331,2018
+abilene christian,12-16,-0.74,1101,2018
+montana state,11-19,-0.75,1286,2018
+eastern illinois,10-19,-0.75,1183,2018
+florida atlantic,9-19,-0.78,1194,2018
+central connecticut,14-18,-0.79,1148,2018
+james madison,9-22,-0.79,1241,2018
+western illinois,8-16,-0.8,1442,2018
+bethune-cookman,16-14,-0.8,1126,2018
+prairie view,15-18,-0.81,1341,2018
+fairleigh dickinson,11-18,-0.85,1192,2018
+brown,10-16,-0.87,1135,2018
+jacksonville,11-18,-0.88,1239,2018
+quinnipiac,12-21,-0.88,1346,2018
+holy cross,12-19,-0.88,1221,2018
+army,12-17,-0.9,1119,2018
+umass-lowell,11-18,-0.9,1262,2018
+north carolina central,16-16,-0.91,1300,2018
+cleveland state,11-23,-0.92,1156,2018
+umkc,8-21,-0.92,1282,2018
+eastern kentucky,9-20,-0.92,1184,2018
+portland,7-22,-0.92,1339,2018
+norfolk state,13-17,-0.92,1313,2018
+iupui,9-19,-0.93,1237,2018
+st. francis (ny),11-18,-0.94,1383,2018
+green bay,10-20,-0.94,1453,2018
+citadel,8-21,-0.95,1154,2018
+nebraska-omaha,7-22,-0.95,1303,2018
+southern illinois-edwardsville,9-21,-0.97,1188,2018
+cal poly,7-22,-1.02,1142,2018
+uc-riverside,7-22,-1.03,1415,2018
+arkansas state,9-21,-1.04,1117,2018
+kennesaw state,8-20,-1.08,1244,2018
+chattanooga,8-23,-1.08,1151,2018
+morehead state,6-21,-1.08,1287,2018
+samford,8-22,-1.08,1359,2018
+siena,8-24,-1.11,1373,2018
+mcneese state,8-17,-1.14,1270,2018
+ut-martin,8-21,-1.14,1404,2018
+southern,13-18,-1.14,1380,2018
+columbia,7-19,-1.17,1162,2018
+arkansas-pine bluff,14-21,-1.19,1115,2018
+presbyterian,8-21,-1.19,1342,2018
+new hampshire,8-21,-1.21,1306,2018
+virginia military institute,7-21,-1.21,1440,2018
+binghamton,9-20,-1.23,1127,2018
+lafayette,9-21,-1.23,1248,2018
+texas a&m-corpus christi,8-18,-1.24,1394,2018
+arkansas-little rock,6-24,-1.25,1114,2018
+stetson,8-20,-1.26,1391,2018
+sacramento state,5-25,-1.28,1170,2018
+pepperdine,5-26,-1.29,1337,2018
+loyola (md),8-22,-1.29,1259,2018
+sacred heart,9-21,-1.3,1357,2018
+charlotte,5-23,-1.32,1150,2018
+detroit,6-24,-1.35,1178,2018
+youngstown state,6-24,-1.35,1464,2018
+morgan state,11-19,-1.39,1288,2018
+rice,5-24,-1.41,1349,2018
+san jose state,3-26,-1.42,1363,2018
+marist,6-25,-1.43,1265,2018
+dartmouth,6-20,-1.44,1171,2018
+jackson state,10-20,-1.46,1238,2018
+south carolina state,8-22,-1.53,1354,2018
+northern arizona,4-26,-1.54,1319,2018
+cal state northridge,4-24,-1.64,1169,2018
+american,6-24,-1.67,1110,2018
+howard,8-23,-1.67,1224,2018
+alabama state,8-23,-1.67,1106,2018
+florida a&m,8-25,-1.68,1197,2018
+longwood,4-26,-1.69,1255,2018
+alcorn state,7-21,-1.72,1108,2018
+maine,4-26,-1.83,1263,2018
+south carolina upstate,3-25,-1.88,1367,2018
+maryland-eastern shore,5-25,-1.97,1271,2018
+coppin state,5-27,-2,1164,2018
+incarnate word,3-21,-2,1230,2018
+bryant,3-28,-2.02,1136,2018
+houston baptist,3-25,-2.06,1223,2018
+chicago state,1-29,-2.1,1152,2018
+northwestern state,2-23,-2.11,1322,2018
+mississippi valley state,4-28,-2.22,1290,2018
+alabama a&m,3-28,-2.39,1105,2018
+delaware state,2-28,-2.55,1175,2018
+virginia,28-2,2.73,1438,2019
+houston,29-2,2.46,1222,2019
+gonzaga,29-2,2.43,1211,2019
+duke,26-5,2.38,1181,2019
+unc,26-5,2.31,1314,2019
+tennessee,26-4,2.28,1397,2019
+kentucky,26-5,2.26,1246,2019
+michigan,26-5,2.1,1276,2019
+lsu,26-5,2.1,1261,2019
+texas tech,26-5,2.09,1403,2019
+michigan state,25-6,1.96,1277,2019
+kansas,23-8,1.95,1242,2019
+florida state,25-6,1.88,1199,2019
+buffalo,27-3,1.85,1138,2019
+nevada,28-3,1.8,1305,2019
+kansas state,24-7,1.79,1243,2019
+wofford,25-4,1.78,1459,2019
+purdue,23-8,1.73,1345,2019
+cincinnati,25-6,1.73,1153,2019
+virginia tech,23-7,1.71,1439,2019
+wisconsin,22-9,1.61,1458,2019
+mississippi state,22-9,1.6,1280,2019
+marquette,23-8,1.6,1266,2019
+maryland,22-9,1.59,1268,2019
+auburn,21-9,1.58,1120,2019
+north carolina-greensboro,26-5,1.55,1422,2019
+ucf,23-7,1.54,1416,2019
+villanova,22-9,1.51,1437,2019
+vcu,25-6,1.51,1433,2019
+washington,24-7,1.46,1449,2019
+temple,23-8,1.45,1396,2019
+new mexico state,25-4,1.37,1308,2019
+utah state,24-6,1.37,1429,2019
+louisville,19-12,1.36,1257,2019
+murray state,25-4,1.33,1293,2019
+oklahoma,19-12,1.32,1328,2019
+iowa state,20-11,1.29,1235,2019
+iowa,21-10,1.29,1234,2019
+toledo,24-6,1.26,1405,2019
+belmont,25-5,1.23,1125,2019
+ole miss,20-11,1.18,1279,2019
+uc-irvine,26-5,1.17,1414,2019
+syracuse,19-12,1.17,1393,2019
+texas christian,19-12,1.17,1395,2019
+minnesota,19-12,1.16,1278,2019
+north carolina state,21-10,1.13,1301,2019
+arizona state,21-9,1.12,1113,2019
+furman,22-7,1.11,1202,2019
+st. john's (ny),20-11,1.1,1385,2019
+baylor,19-12,1.1,1124,2019
+clemson,19-12,1.09,1155,2019
+seton hall,18-12,1.08,1371,2019
+ohio state,18-13,1.01,1326,2019
+texas,16-15,1.01,1400,2019
+creighton,17-13,1,1166,2019
+davidson,22-8,1,1172,2019
+memphis,19-12,0.99,1272,2019
+florida,17-14,0.99,1196,2019
+vermont,24-6,0.98,1436,2019
+hofstra,25-6,0.98,1220,2019
+indiana,17-14,0.98,1231,2019
+lipscomb,23-7,0.97,1252,2019
+alabama,17-14,0.96,1104,2019
+liberty,25-6,0.95,1251,2019
+georgetown,19-12,0.95,1207,2019
+dayton,21-10,0.94,1173,2019
+saint mary's (ca),20-11,0.93,1388,2019
+arkansas,17-14,0.87,1116,2019
+etsu,22-9,0.86,1190,2019
+old dominion,23-8,0.86,1330,2019
+xavier,17-14,0.86,1462,2019
+fresno state,21-8,0.84,1201,2019
+yale,19-7,0.84,1463,2019
+kent state,20-9,0.81,1245,2019
+nebraska,15-15,0.81,1304,2019
+oregon,19-12,0.81,1332,2019
+utah valley,21-8,0.8,1430,2019
+college of charleston,23-8,0.8,1158,2019
+providence,17-14,0.78,1344,2019
+butler,16-15,0.78,1139,2019
+wichita state,17-13,0.78,1455,2019
+tulsa,18-13,0.78,1409,2019
+georgia state,21-9,0.76,1209,2019
+drake,22-9,0.75,1179,2019
+south carolina,15-15,0.74,1376,2019
+san francisco,20-10,0.73,1362,2019
+byu,19-13,0.71,1140,2019
+colorado,19-11,0.71,1160,2019
+northeastern,21-10,0.7,1318,2019
+penn state,14-17,0.7,1336,2019
+oregon state,18-12,0.69,1333,2019
+san diego,20-13,0.65,1360,2019
+utah,17-13,0.63,1428,2019
+arizona,17-14,0.63,1112,2019
+missouri,14-16,0.63,1281,2019
+south florida,18-12,0.62,1378,2019
+texas state,21-8,0.6,1402,2019
+oklahoma state,12-19,0.56,1329,2019
+ucla,16-15,0.55,1417,2019
+penn,18-11,0.55,1335,2019
+saint louis,19-12,0.54,1387,2019
+texas a&m,13-17,0.53,1401,2019
+depaul,15-14,0.53,1177,2019
+rutgers,14-16,0.53,1353,2019
+georgia southern,18-11,0.53,1204,2019
+montana,21-8,0.52,1285,2019
+northern kentucky,22-8,0.52,1297,2019
+bowling green state,18-11,0.51,1132,2019
+western kentucky,18-13,0.51,1443,2019
+san diego state,18-12,0.51,1361,2019
+central michigan,18-10,0.5,1141,2019
+harvard,16-10,0.5,1217,2019
+stony brook,23-8,0.48,1392,2019
+southern miss,16-10,0.48,1379,2019
+loyola marymount,18-11,0.47,1258,2019
+abilene christian,21-6,0.46,1101,2019
+marshall,18-13,0.45,1267,2019
+jacksonville state,22-9,0.45,1240,2019
+west virginia,12-19,0.44,1452,2019
+miami (fl),13-17,0.43,1274,2019
+georgia tech,14-17,0.42,1210,2019
+south dakota state,23-8,0.42,1355,2019
+bucknell,21-11,0.41,1137,2019
+boston college,14-16,0.41,1130,2019
+colgate,22-10,0.39,1159,2019
+uconn,15-16,0.38,1163,2019
+stanford,15-15,0.37,1390,2019
+duquesne,19-12,0.36,1182,2019
+loyola (il),19-13,0.36,1260,2019
+northwestern,13-18,0.35,1321,2019
+louisiana tech,17-12,0.35,1256,2019
+austin peay,20-11,0.33,1122,2019
+radford,19-11,0.33,1347,2019
+rhode island,16-14,0.31,1348,2019
+lehigh,20-11,0.31,1250,2019
+illinois,11-20,0.3,1228,2019
+smu,14-16,0.29,1374,2019
+notre dame,13-18,0.29,1323,2019
+usc,15-16,0.28,1425,2019
+grand canyon,17-12,0.27,1213,2019
+princeton,14-11,0.26,1343,2019
+brown,17-11,0.26,1135,2019
+north texas,17-11,0.26,1317,2019
+george mason,17-14,0.24,1206,2019
+ucsb,19-9,0.24,1364,2019
+unlv,17-13,0.22,1424,2019
+utsa,14-13,0.22,1427,2019
+wright state,18-12,0.22,1460,2019
+nebraska-omaha,19-10,0.2,1303,2019
+alabama-birmingham,16-13,0.2,1412,2019
+pitt,13-18,0.2,1338,2019
+southern illinois,17-15,0.2,1356,2019
+louisiana-lafayette,17-12,0.19,1418,2019
+bradley,19-14,0.18,1133,2019
+florida international,15-12,0.16,1198,2019
+st. bonaventure,16-15,0.15,1382,2019
+ohio,13-16,0.15,1325,2019
+georgia,11-20,0.14,1208,2019
+njit,20-12,0.12,1312,2019
+gardner-webb,20-11,0.12,1205,2019
+sam houston state,18-10,0.11,1358,2019
+akron,14-15,0.1,1103,2019
+northern colorado,19-10,0.1,1294,2019
+eastern michigan,11-16,0.09,1185,2019
+illinois state,16-16,0.08,1229,2019
+texas-rio grande valley,16-15,0.07,1410,2019
+wake forest,11-19,0.07,1448,2019
+santa clara,15-15,0.06,1365,2019
+miami (oh),13-16,0.04,1275,2019
+texas-arlington,15-15,0.03,1426,2019
+ball state,14-16,0.01,1123,2019
+florida atlantic,14-14,0.01,1194,2019
+northern iowa,14-18,-0.02,1320,2019
+hawaii,16-12,-0.03,1218,2019
+seattle,16-13,-0.03,1370,2019
+missouri state,15-16,-0.06,1283,2019
+indiana state,13-16,-0.06,1232,2019
+campbell,17-12,-0.07,1144,2019
+northern illinois,13-16,-0.07,1296,2019
+st. joseph's,13-18,-0.07,1386,2019
+pepperdine,15-17,-0.09,1337,2019
+samford,16-16,-0.1,1359,2019
+louisiana-monroe,15-14,-0.1,1419,2019
+green bay,15-15,-0.11,1453,2019
+winthrop,15-12,-0.12,1457,2019
+cornell,13-15,-0.13,1165,2019
+umbc,17-12,-0.15,1420,2019
+hartford,17-14,-0.15,1216,2019
+vanderbilt,9-22,-0.18,1435,2019
+cal state bakersfield,13-14,-0.19,1167,2019
+new mexico,12-17,-0.2,1307,2019
+prairie view,18-12,-0.21,1341,2019
+delaware,15-15,-0.23,1174,2019
+pacific,12-18,-0.24,1334,2019
+holy cross,16-17,-0.24,1221,2019
+north florida,14-17,-0.26,1316,2019
+texas southern,17-12,-0.26,1411,2019
+saint francis (pa),16-13,-0.26,1384,2019
+weber state,15-14,-0.26,1451,2019
+william & mary,13-17,-0.26,1456,2019
+lamar,15-12,-0.27,1249,2019
+fairleigh dickinson,17-13,-0.28,1192,2019
+valparaiso,13-18,-0.29,1434,2019
+coastal carolina,13-15,-0.29,1157,2019
+oakland,15-16,-0.29,1324,2019
+uic,14-16,-0.31,1227,2019
+california baptist,12-14,-0.32,1465,2019
+ipfw,15-14,-0.33,1236,2019
+cal state fullerton,12-16,-0.34,1168,2019
+north dakota state,14-15,-0.34,1295,2019
+air force,12-17,-0.36,1102,2019
+rider,16-15,-0.37,1351,2019
+iona,16-15,-0.38,1233,2019
+siena,17-16,-0.38,1373,2019
+washington state,11-20,-0.38,1450,2019
+norfolk state,16-12,-0.39,1313,2019
+long beach state,12-18,-0.41,1253,2019
+iupui,14-16,-0.42,1237,2019
+colorado state,11-19,-0.42,1161,2019
+american,15-15,-0.43,1110,2019
+north carolina a&t,16-12,-0.43,1299,2019
+new orleans,13-12,-0.44,1309,2019
+high point,14-15,-0.44,1219,2019
+rice,11-18,-0.44,1349,2019
+umass,11-20,-0.46,1269,2019
+florida gulf coast,12-18,-0.46,1195,2019
+canisius,15-17,-0.46,1145,2019
+arkansas state,11-18,-0.46,1117,2019
+south alabama,13-16,-0.46,1375,2019
+university of california,8-22,-0.46,1143,2019
+presbyterian,15-15,-0.47,1342,2019
+east carolina,10-20,-0.47,1187,2019
+richmond,12-19,-0.48,1350,2019
+boise state,11-19,-0.48,1129,2019
+drexel,12-19,-0.48,1180,2019
+quinnipiac,16-14,-0.48,1346,2019
+portland state,13-15,-0.48,1340,2019
+eastern washington,13-17,-0.49,1186,2019
+charleston southern,13-15,-0.52,1149,2019
+middle tennessee,9-20,-0.52,1292,2019
+boston university,14-18,-0.53,1131,2019
+la salle,10-20,-0.53,1247,2019
+montana state,13-16,-0.54,1286,2019
+southeastern louisiana,14-15,-0.56,1368,2019
+troy,10-18,-0.56,1407,2019
+navy,12-19,-0.57,1298,2019
+detroit,11-20,-0.57,1178,2019
+st. francis (ny),15-15,-0.58,1383,2019
+james madison,12-19,-0.59,1241,2019
+robert morris,15-16,-0.59,1352,2019
+evansville,9-21,-0.59,1191,2019
+southern utah,12-15,-0.59,1381,2019
+eastern kentucky,11-18,-0.6,1184,2019
+monmouth,14-20,-0.62,1284,2019
+citadel,9-18,-0.63,1154,2019
+morehead state,11-20,-0.65,1287,2019
+liu-brooklyn,15-16,-0.65,1254,2019
+army,12-19,-0.67,1119,2019
+mercer,9-20,-0.67,1273,2019
+umkc,10-20,-0.67,1282,2019
+sacred heart,14-17,-0.67,1357,2019
+fordham,11-19,-0.67,1200,2019
+hampton,12-16,-0.68,1214,2019
+columbia,8-18,-0.69,1162,2019
+south dakota,11-17,-0.7,1377,2019
+eastern illinois,13-18,-0.72,1183,2019
+umass-lowell,13-17,-0.72,1262,2019
+sacramento state,11-15,-0.72,1170,2019
+cal state northridge,12-19,-0.72,1169,2019
+appalachian state,8-20,-0.74,1111,2019
+charlotte,8-21,-0.77,1150,2019
+dartmouth,9-19,-0.78,1171,2019
+texas a&m-corpus christi,10-17,-0.79,1394,2019
+north carolina-wilmington,9-23,-0.8,1423,2019
+george washington,8-23,-0.8,1203,2019
+stephen f. austin,10-16,-0.8,1372,2019
+chattanooga,9-20,-0.8,1151,2019
+uc-davis,9-19,-0.81,1413,2019
+wagner,11-17,-0.83,1447,2019
+loyola (md),11-21,-0.84,1259,2019
+youngstown state,10-20,-0.85,1464,2019
+houston baptist,10-17,-0.87,1223,2019
+central arkansas,10-18,-0.88,1146,2019
+idaho state,9-18,-0.89,1226,2019
+niagara,13-19,-0.89,1310,2019
+lafayette,9-20,-0.9,1248,2019
+arkansas-little rock,8-21,-0.9,1114,2019
+elon,9-21,-0.91,1189,2019
+howard,13-15,-0.91,1224,2019
+ut-martin,10-19,-0.92,1404,2019
+grambling,13-15,-0.92,1212,2019
+towson,9-22,-0.95,1406,2019
+cleveland state,8-21,-0.95,1156,2019
+longwood,12-17,-0.95,1255,2019
+oral roberts,9-21,-0.95,1331,2019
+marist,12-19,-0.97,1265,2019
+northern arizona,10-20,-0.97,1319,2019
+albany (ny),11-20,-0.98,1107,2019
+western michigan,7-23,-0.98,1444,2019
+virginia military institute,8-21,-1,1440,2019
+nicholls state,10-17,-1.04,1311,2019
+arkansas-pine bluff,12-18,-1.06,1115,2019
+bethune-cookman,12-16,-1.06,1126,2019
+north dakota,8-18,-1.07,1315,2019
+north carolina central,12-15,-1.08,1300,2019
+bryant,10-20,-1.08,1136,2019
+jacksonville,10-20,-1.08,1239,2019
+utep,6-21,-1.08,1431,2019
+central connecticut,9-20,-1.09,1148,2019
+wyoming,7-23,-1.1,1461,2019
+manhattan,11-21,-1.11,1264,2019
+milwaukee,8-22,-1.11,1454,2019
+north alabama,7-22,-1.15,1466,2019
+st. peter's,10-22,-1.19,1389,2019
+uc-riverside,7-22,-1.19,1415,2019
+southeast missouri state,8-21,-1.19,1369,2019
+jackson state,11-18,-1.19,1238,2019
+florida a&m,10-19,-1.21,1197,2019
+southern illinois-edwardsville,8-21,-1.21,1188,2019
+western carolina,6-25,-1.21,1441,2019
+tulane,4-26,-1.23,1408,2019
+tennessee state,7-21,-1.24,1398,2019
+binghamton,8-22,-1.27,1127,2019
+western illinois,8-20,-1.27,1442,2019
+fairfield,9-22,-1.28,1193,2019
+mount st. mary's,7-22,-1.28,1291,2019
+alabama state,9-18,-1.3,1106,2019
+denver,7-22,-1.31,1176,2019
+northwestern state,8-20,-1.33,1322,2019
+savannah state,10-19,-1.34,1366,2019
+portland,5-25,-1.38,1339,2019
+tennessee tech,6-23,-1.44,1399,2019
+mcneese state,6-21,-1.49,1270,2019
+morgan state,8-19,-1.58,1288,2019
+kennesaw state,4-26,-1.62,1244,2019
+san jose state,3-26,-1.68,1363,2019
+cal poly,4-23,-1.69,1142,2019
+stetson,5-24,-1.71,1391,2019
+coppin state,7-24,-1.73,1164,2019
+alcorn state,6-20,-1.76,1108,2019
+southern,6-24,-1.84,1380,2019
+maine,4-27,-1.85,1263,2019
+idaho,3-25,-1.88,1225,2019
+maryland-eastern shore,5-24,-1.97,1271,2019
+mississippi valley state,5-26,-2,1290,2019
+south carolina state,5-25,-2.04,1354,2019
+new hampshire,3-24,-2.05,1306,2019
+chicago state,1-28,-2.08,1152,2019
+alabama a&m,5-27,-2.09,1105,2019
+incarnate word,2-25,-2.09,1230,2019
+south carolina upstate,3-26,-2.17,1367,2019
+gonzaga,30-1,3.02,1211,2021
+baylor,28-2,2.82,1124,2021
+houston,27-4,2.1,1222,2021
+michigan,23-5,1.99,1276,2021
+alabama,26-7,1.89,1104,2021
+arkansas,25-7,1.86,1116,2021
+illinois,24-7,1.84,1228,2021
+usc,25-8,1.83,1425,2021
+san diego state,22-5,1.72,1361,2021
+oklahoma state,21-9,1.71,1329,2021
+loyola (il),24-5,1.63,1260,2021
+byu,19-7,1.63,1140,2021
+kansas,20-9,1.61,1242,2021
+oregon,21-7,1.6,1332,2021
+texas,19-8,1.6,1400,2021
+ucla,22-10,1.55,1417,2021
+west virginia,19-10,1.51,1452,2021
+winthrop,23-2,1.5,1457,2021
+iowa,22-9,1.47,1234,2021
+colorado,23-9,1.46,1160,2021
+villanova,18-7,1.45,1437,2021
+colgate,14-2,1.44,1159,2021
+drake,24-5,1.44,1179,2021
+ohio state,21-10,1.44,1326,2021
+florida state,18-7,1.38,1199,2021
+creighton,22-9,1.35,1166,2021
+lsu,19-10,1.34,1261,2021
+virginia,18-7,1.3,1438,2021
+wichita state,14-6,1.29,1455,2021
+st. bonaventure,16-5,1.29,1382,2021
+memphis,20-8,1.29,1272,2021
+vcu,19-7,1.26,1433,2021
+belmont,25-4,1.25,1125,2021
+texas tech,18-11,1.25,1403,2021
+clemson,16-8,1.24,1155,2021
+western kentucky,21-8,1.21,1443,2021
+louisiana tech,23-8,1.21,1256,2021
+tennessee,18-9,1.21,1397,2021
+missouri,16-10,1.2,1281,2021
+navy,15-3,1.18,1298,2021
+purdue,18-10,1.16,1345,2021
+arizona,17-9,1.15,1112,2021
+oklahoma,16-11,1.12,1328,2021
+ucsb,18-5,1.11,1364,2021
+colorado state,19-8,1.1,1161,2021
+oregon state,19-13,1.1,1333,2021
+syracuse,18-10,1.09,1393,2021
+georgia tech,17-9,1.07,1210,2021
+uconn,15-8,1.05,1163,2021
+unc,18-11,1.01,1314,2021
+utah state,19-9,1.01,1429,2021
+saint mary's (ca),14-10,1,1388,2021
+wisconsin,18-13,1,1458,2021
+rutgers,16-12,0.99,1353,2021
+virginia tech,15-7,0.99,1439,2021
+boise state,18-9,0.98,1129,2021
+louisville,13-7,0.98,1257,2021
+abilene christian,19-5,0.93,1101,2021
+florida,15-10,0.93,1196,2021
+alabama-birmingham,20-7,0.91,1412,2021
+maryland,16-14,0.88,1268,2021
+north texas,17-10,0.87,1317,2021
+smu,11-6,0.86,1374,2021
+morehead state,21-8,0.86,1287,2021
+north carolina-greensboro,21-9,0.84,1422,2021
+xavier,13-8,0.84,1462,2021
+marshall,15-7,0.82,1267,2021
+ohio,16-8,0.79,1325,2021
+georgia state,14-6,0.78,1209,2021
+saint louis,14-7,0.76,1387,2021
+michigan state,15-13,0.76,1277,2021
+st. john's (ny),16-11,0.73,1385,2021
+toledo,21-9,0.72,1405,2021
+missouri state,15-7,0.72,1283,2021
+wright state,18-6,0.72,1460,2021
+georgetown,13-13,0.7,1207,2021
+loyola marymount,13-9,0.7,1258,2021
+southern utah,14-4,0.7,1381,2021
+ole miss,16-12,0.7,1279,2021
+cleveland state,19-8,0.69,1156,2021
+liberty,18-6,0.69,1251,2021
+mississippi state,18-15,0.67,1280,2021
+stanford,14-13,0.67,1390,2021
+richmond,13-9,0.63,1350,2021
+seton hall,14-13,0.63,1371,2021
+old dominion,14-8,0.62,1330,2021
+eastern kentucky,20-7,0.62,1184,2021
+auburn,13-14,0.6,1120,2021
+texas state,17-6,0.59,1402,2021
+georgia,13-12,0.57,1208,2021
+nevada,15-10,0.57,1305,2021
+prairie view,16-5,0.56,1341,2021
+siena,12-5,0.56,1373,2021
+minnesota,14-15,0.55,1278,2021
+dayton,14-10,0.54,1173,2021
+washington state,14-13,0.53,1450,2021
+cincinnati,12-11,0.52,1153,2021
+duke,12-11,0.52,1181,2021
+chattanooga,15-8,0.52,1151,2021
+santa clara,11-8,0.51,1365,2021
+pepperdine,12-12,0.51,1337,2021
+north carolina state,14-11,0.51,1301,2021
+utah,12-13,0.5,1428,2021
+providence,13-13,0.49,1344,2021
+south dakota state,15-7,0.49,1355,2021
+indiana,12-15,0.49,1231,2021
+penn state,11-14,0.48,1336,2021
+buffalo,15-9,0.48,1138,2021
+wofford,13-9,0.48,1459,2021
+ucf,11-12,0.47,1416,2021
+kent state,14-8,0.47,1245,2021
+iona,12-6,0.46,1233,2021
+davidson,12-9,0.45,1172,2021
+marquette,13-14,0.44,1266,2021
+furman,13-9,0.44,1202,2021
+indiana state,14-10,0.44,1232,2021
+umbc,14-6,0.43,1420,2021
+texas southern,16-9,0.42,1411,2021
+eastern washington,15-8,0.41,1186,2021
+coastal carolina,14-8,0.41,1157,2021
+texas christian,12-14,0.41,1395,2021
+mercer,15-11,0.41,1273,2021
+norfolk state,15-8,0.4,1313,2021
+uc-irvine,13-9,0.39,1414,2021
+uc-riverside,12-7,0.38,1415,2021
+bryant,14-7,0.38,1136,2021
+arizona state,11-14,0.36,1113,2021
+akron,13-8,0.36,1103,2021
+army,11-9,0.35,1119,2021
+jacksonville state,16-9,0.35,1240,2021
+weber state,13-6,0.35,1451,2021
+pacific,8-9,0.35,1334,2021
+stephen f. austin,13-5,0.34,1372,2021
+nicholls state,17-7,0.34,1311,2021
+george mason,12-9,0.33,1206,2021
+louisiana-lafayette,15-9,0.32,1418,2021
+wagner,13-7,0.31,1447,2021
+james madison,10-7,0.31,1241,2021
+sam houston state,15-9,0.29,1358,2021
+oral roberts,15-11,0.28,1331,2021
+hartford,15-9,0.26,1216,2021
+drexel,12-8,0.24,1180,2021
+monmouth,12-8,0.24,1284,2021
+wyoming,14-11,0.23,1461,2021
+vermont,10-5,0.22,1436,2021
+kentucky,9-16,0.2,1246,2021
+northeastern,10-9,0.19,1318,2021
+morgan state,12-7,0.19,1288,2021
+hofstra,13-10,0.19,1220,2021
+butler,10-15,0.17,1139,2021
+etsu,11-12,0.16,1190,2021
+tulsa,9-12,0.15,1409,2021
+south alabama,13-11,0.14,1375,2021
+grand canyon,10-7,0.12,1213,2021
+pitt,10-12,0.11,1338,2021
+umass,8-7,0.1,1269,2021
+appalachian state,13-12,0.08,1111,2021
+duquesne,9-9,0.07,1182,2021
+utsa,11-11,0.06,1427,2021
+notre dame,10-15,0.04,1323,2021
+canisius,7-6,0.03,1145,2021
+san francisco,11-14,0.03,1362,2021
+northwestern,8-15,0.03,1321,2021
+jackson state,12-6,0.03,1238,2021
+st. peter's,14-11,0.02,1389,2021
+mount st. mary's,12-11,0,1291,2021
+tulane,10-13,-0.01,1408,2021
+marist,12-9,-0.01,1265,2021
+bowling green state,13-12,-0.01,1132,2021
+lafayette,9-6,-0.02,1248,2021
+texas a&m,7-10,-0.03,1401,2021
+rice,12-13,-0.03,1349,2021
+south florida,8-13,-0.04,1378,2021
+northern kentucky,14-11,-0.04,1297,2021
+uc-davis,8-7,-0.05,1413,2021
+campbell,15-10,-0.08,1144,2021
+fresno state,10-12,-0.09,1201,2021
+north dakota state,15-12,-0.09,1295,2021
+detroit,12-10,-0.1,1178,2021
+virginia military institute,10-12,-0.1,1440,2021
+kansas state,9-19,-0.11,1243,2021
+miami (fl),10-17,-0.11,1274,2021
+east carolina,7-11,-0.11,1187,2021
+cal state bakersfield,11-11,-0.11,1167,2021
+utep,9-12,-0.11,1431,2021
+elon,9-9,-0.12,1189,2021
+american,4-6,-0.12,1110,2021
+rhode island,10-15,-0.12,1348,2021
+vanderbilt,9-16,-0.16,1435,2021
+citadel,9-12,-0.17,1154,2021
+miami (oh),11-11,-0.18,1275,2021
+south dakota,13-11,-0.2,1377,2021
+florida gulf coast,8-6,-0.21,1195,2021
+sacred heart,9-9,-0.22,1357,2021
+howard,1-2,-0.23,1224,2021
+south carolina,6-15,-0.23,1376,2021
+merrimack,9-9,-0.23,1467,2021
+liu-brooklyn,9-9,-0.24,1254,2021
+hawaii,9-10,-0.24,1218,2021
+southern illinois,11-14,-0.25,1356,2021
+boston university,7-11,-0.26,1131,2021
+ball state,10-13,-0.26,1123,2021
+umass-lowell,11-12,-0.27,1262,2021
+new hampshire,9-9,-0.27,1306,2021
+university of california,8-20,-0.28,1143,2021
+unlv,10-15,-0.29,1424,2021
+utah valley,7-9,-0.3,1430,2021
+niagara,9-11,-0.3,1310,2021
+bradley,10-16,-0.31,1133,2021
+bucknell,5-7,-0.31,1137,2021
+st. francis (ny),9-10,-0.31,1383,2021
+montana state,11-10,-0.31,1286,2021
+radford,13-12,-0.31,1347,2021
+temple,5-11,-0.33,1396,2021
+loyola (md),6-11,-0.34,1259,2021
+north alabama,9-9,-0.34,1466,2021
+milwaukee,10-12,-0.36,1454,2021
+florida atlantic,9-10,-0.37,1194,2021
+college of charleston,7-10,-0.38,1158,2021
+coppin state,9-13,-0.39,1164,2021
+texas-arlington,10-13,-0.39,1426,2021
+delaware,6-8,-0.4,1174,2021
+georgia southern,9-13,-0.41,1204,2021
+albany (ny),7-9,-0.41,1107,2021
+youngstown state,11-12,-0.42,1464,2021
+north carolina-asheville,10-10,-0.42,1421,2021
+iupui,8-10,-0.42,1237,2021
+montana,10-13,-0.43,1285,2021
+northern iowa,8-15,-0.43,1320,2021
+arkansas-little rock,10-15,-0.43,1114,2021
+oakland,12-18,-0.43,1324,2021
+william & mary,7-10,-0.46,1456,2021
+new mexico state,6-7,-0.47,1308,2021
+depaul,5-14,-0.48,1177,2021
+nebraska,6-20,-0.48,1304,2021
+quinnipiac,9-13,-0.48,1346,2021
+evansville,9-16,-0.49,1191,2021
+western carolina,9-16,-0.5,1441,2021
+la salle,8-16,-0.5,1247,2021
+stetson,9-12,-0.5,1391,2021
+charlotte,9-15,-0.51,1150,2021
+austin peay,12-13,-0.51,1122,2021
+holy cross,5-11,-0.53,1221,2021
+lipscomb,9-12,-0.53,1252,2021
+cal state fullerton,5-8,-0.54,1168,2021
+grambling,11-12,-0.55,1212,2021
+murray state,11-13,-0.56,1293,2021
+north carolina a&t,9-10,-0.57,1299,2021
+fairfield,10-17,-0.59,1193,2021
+arkansas state,8-13,-0.59,1117,2021
+fairleigh dickinson,9-15,-0.6,1192,2021
+washington,5-21,-0.61,1449,2021
+troy,8-17,-0.62,1407,2021
+cal state northridge,8-13,-0.63,1169,2021
+st. joseph's,5-15,-0.63,1386,2021
+stony brook,8-14,-0.64,1392,2021
+seattle,7-10,-0.66,1370,2021
+gardner-webb,11-15,-0.67,1205,2021
+jacksonville,9-11,-0.67,1239,2021
+northern colorado,8-11,-0.68,1294,2021
+longwood,12-16,-0.69,1255,2021
+north carolina-wilmington,6-10,-0.7,1423,2021
+valparaiso,8-18,-0.71,1434,2021
+california baptist,6-9,-0.72,1465,2021
+idaho state,8-11,-0.73,1226,2021
+manhattan,7-13,-0.74,1264,2021
+wake forest,5-16,-0.74,1448,2021
+san diego,3-11,-0.74,1360,2021
+uic,9-13,-0.74,1227,2021
+njit,7-12,-0.74,1312,2021
+southeast missouri state,11-16,-0.77,1369,2021
+george washington,5-12,-0.78,1203,2021
+southern,8-11,-0.78,1380,2021
+alabama a&m,6-9,-0.82,1105,2021
+long beach state,6-12,-0.82,1253,2021
+samford,4-13,-0.84,1359,2021
+hampton,11-14,-0.85,1214,2021
+boston college,4-16,-0.85,1130,2021
+green bay,8-17,-0.85,1453,2021
+ipfw,8-15,-0.86,1236,2021
+umkc,7-13,-0.87,1282,2021
+sacramento state,6-12,-0.88,1170,2021
+north dakota,9-16,-0.88,1315,2021
+lehigh,4-11,-0.89,1250,2021
+florida a&m,8-12,-0.91,1197,2021
+north florida,7-14,-0.92,1316,2021
+saint francis (pa),6-16,-0.92,1384,2021
+portland state,6-12,-0.94,1340,2021
+rider,6-17,-0.95,1351,2021
+high point,9-15,-0.97,1219,2021
+texas-rio grande valley,3-8,-0.99,1410,2021
+illinois state,6-18,-0.99,1229,2021
+northwestern state,10-18,-0.99,1322,2021
+maine,2-7,-1,1263,2021
+portland,3-15,-1.01,1339,2021
+lamar,10-18,-1.03,1249,2021
+louisiana-monroe,7-19,-1.03,1419,2021
+alcorn state,6-13,-1.04,1108,2021
+southern miss,6-17,-1.05,1379,2021
+towson,4-14,-1.06,1406,2021
+ut-martin,7-16,-1.06,1404,2021
+southern illinois-edwardsville,8-17,-1.06,1188,2021
+central connecticut,5-16,-1.07,1148,2021
+northern arizona,6-16,-1.09,1319,2021
+north carolina central,4-9,-1.09,1300,2021
+new orleans,9-15,-1.11,1309,2021
+eastern illinois,9-18,-1.11,1183,2021
+binghamton,4-14,-1.12,1127,2021
+florida international,5-17,-1.19,1198,2021
+eastern michigan,3-12,-1.2,1185,2021
+air force,5-20,-1.2,1102,2021
+iowa state,2-22,-1.21,1235,2021
+fordham,2-12,-1.24,1200,2021
+central michigan,5-15,-1.26,1141,2021
+western michigan,4-16,-1.26,1444,2021
+western illinois,6-15,-1.33,1442,2021
+middle tennessee,4-18,-1.34,1292,2021
+south carolina upstate,5-17,-1.34,1367,2021
+presbyterian,6-15,-1.36,1342,2021
+southeastern louisiana,8-18,-1.37,1368,2021
+san jose state,3-16,-1.41,1363,2021
+new mexico,3-16,-1.41,1307,2021
+robert morris,3-15,-1.44,1352,2021
+central arkansas,4-19,-1.45,1146,2021
+tennessee tech,5-22,-1.48,1399,2021
+incarnate word,5-14,-1.54,1230,2021
+northern illinois,3-16,-1.55,1296,2021
+nebraska-omaha,5-20,-1.59,1303,2021
+houston baptist,5-19,-1.61,1223,2021
+cal poly,3-20,-1.63,1142,2021
+alabama state,4-14,-1.63,1106,2021
+kennesaw state,2-17,-1.69,1244,2021
+arkansas-pine bluff,4-21,-1.76,1115,2021
+chicago state,0-9,-1.76,1152,2021
+delaware state,1-16,-1.78,1175,2021
+mcneese state,4-14,-1.79,1270,2021
+tennessee state,3-19,-1.8,1398,2021
+charleston southern,2-18,-1.95,1149,2021
+mississippi valley state,2-22,-2.09,1290,2021
+texas a&m-corpus christi,2-19,-2.11,1394,2021
+south carolina state,1-17,-2.21,1354,2021
+idaho,1-21,-2.24,1225,2021
+denver,1-18,-2.32,1176,2021
