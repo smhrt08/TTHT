@@ -1,0 +1,364 @@
+Team,Record,BRRtg,TeamID,Season
+alabama,29-5,2.37,1104,2023
+houston,31-3,2.36,1222,2023
+purdue,29-5,2.18,1345,2023
+kansas,27-7,2.17,1242,2023
+gonzaga,27-5,2.13,1211,2023
+ucla,29-5,2.07,1417,2023
+san diego state,26-6,1.95,1361,2023
+marquette,28-6,1.94,1266,2023
+texas,26-8,1.93,1400,2023
+florida atlantic,29-3,1.93,1194,2023
+arizona,28-6,1.89,1112,2023
+duke,26-8,1.78,1181,2023
+saint mary's (ca),25-7,1.76,1388,2023
+college of charleston,30-3,1.72,1158,2023
+virginia,25-7,1.71,1438,2023
+baylor,22-10,1.68,1124,2023
+memphis,26-8,1.66,1272,2023
+uconn,25-8,1.65,1163,2023
+utah state,25-8,1.64,1429,2023
+miami (fl),25-7,1.61,1274,2023
+kansas state,23-9,1.59,1243,2023
+xavier,25-9,1.57,1462,2023
+oral roberts,26-4,1.57,1331,2023
+missouri,24-9,1.56,1281,2023
+texas a&m,25-9,1.56,1401,2023
+tennessee,23-10,1.53,1397,2023
+boise state,23-9,1.45,1129,2023
+vcu,27-7,1.44,1433,2023
+indiana,22-11,1.4,1231,2023
+north texas,24-7,1.38,1317,2023
+north carolina state,23-10,1.34,1301,2023
+kentucky,21-11,1.33,1246,2023
+kent state,26-6,1.29,1245,2023
+arkansas,20-13,1.28,1116,2023
+texas christian,21-12,1.27,1395,2023
+nevada,21-10,1.27,1305,2023
+iowa state,19-13,1.26,1235,2023
+auburn,20-12,1.26,1120,2023
+drake,26-7,1.25,1179,2023
+west virginia,19-14,1.21,1452,2023
+creighton,21-12,1.2,1166,2023
+usc,22-10,1.2,1425,2023
+northwestern,21-11,1.18,1321,2023
+santa clara,22-9,1.18,1365,2023
+michigan state,19-12,1.18,1277,2023
+penn state,22-13,1.18,1336,2023
+mississippi state,21-12,1.17,1280,2023
+maryland,21-12,1.15,1268,2023
+alabama-birmingham,24-9,1.15,1412,2023
+unc,20-13,1.14,1314,2023
+illinois,20-12,1.13,1228,2023
+vanderbilt,20-14,1.13,1435,2023
+clemson,23-10,1.1,1155,2023
+pitt,22-11,1.09,1338,2023
+providence,21-11,1.08,1344,2023
+liberty,23-8,1.08,1251,2023
+new mexico,21-11,1.07,1307,2023
+arizona state,22-12,1.06,1113,2023
+bradley,24-9,1.06,1133,2023
+sam houston state,21-7,1.02,1358,2023
+toledo,26-7,1.02,1405,2023
+louisiana-lafayette,23-7,1.01,1418,2023
+oklahoma state,18-15,1.01,1329,2023
+iona,27-7,0.99,1233,2023
+southern miss,22-7,0.99,1379,2023
+utah valley,22-8,0.97,1430,2023
+fordham,25-8,0.96,1200,2023
+iowa,19-13,0.96,1234,2023
+kennesaw state,23-8,0.92,1244,2023
+oregon,19-14,0.92,1332,2023
+saint louis,20-12,0.89,1387,2023
+rutgers,19-14,0.88,1353,2023
+cincinnati,20-12,0.87,1153,2023
+wisconsin,17-14,0.87,1458,2023
+san jose state,19-13,0.87,1363,2023
+virginia tech,19-14,0.86,1439,2023
+hofstra,23-9,0.86,1220,2023
+ucsb,25-7,0.82,1364,2023
+wake forest,19-14,0.81,1448,2023
+marshall,23-8,0.81,1267,2023
+tulane,20-11,0.81,1408,2023
+oklahoma,15-17,0.8,1328,2023
+dayton,22-12,0.8,1173,2023
+unlv,18-13,0.79,1424,2023
+michigan,17-15,0.79,1276,2023
+furman,24-7,0.78,1202,2023
+florida,16-16,0.75,1196,2023
+southern illinois,22-10,0.73,1356,2023
+loyola marymount,18-12,0.72,1258,2023
+north carolina-wilmington,22-10,0.71,1423,2023
+grand canyon,21-11,0.7,1213,2023
+north carolina-asheville,25-7,0.69,1421,2023
+texas tech,16-16,0.68,1403,2023
+yale,19-8,0.66,1463,2023
+ucf,18-14,0.66,1416,2023
+nebraska,16-16,0.66,1304,2023
+seton hall,16-15,0.62,1371,2023
+vermont,22-10,0.62,1436,2023
+st. john's (ny),18-15,0.62,1385,2023
+montana state,23-9,0.61,1286,2023
+villanova,17-16,0.6,1437,2023
+princeton,19-8,0.6,1343,2023
+colgate,25-8,0.6,1159,2023
+akron,20-11,0.59,1103,2023
+san francisco,19-14,0.59,1362,2023
+duquesne,20-12,0.58,1182,2023
+colorado,17-16,0.58,1160,2023
+ohio state,16-19,0.57,1326,2023
+belmont,20-11,0.57,1125,2023
+george mason,20-13,0.57,1206,2023
+washington state,17-16,0.56,1450,2023
+byu,17-15,0.55,1140,2023
+southern utah,18-12,0.53,1381,2023
+syracuse,17-15,0.51,1393,2023
+uc-irvine,21-11,0.48,1414,2023
+middle tennessee,17-14,0.48,1292,2023
+utah,17-15,0.47,1428,2023
+james madison,19-11,0.44,1241,2023
+umass-lowell,24-8,0.44,1262,2023
+washington,16-16,0.43,1449,2023
+seattle,18-12,0.42,1370,2023
+uc-riverside,21-12,0.42,1415,2023
+temple,16-16,0.42,1396,2023
+old dominion,18-12,0.42,1330,2023
+wichita state,17-15,0.41,1455,2023
+hawaii,21-11,0.39,1218,2023
+indiana state,21-12,0.38,1232,2023
+eastern washington,21-10,0.37,1186,2023
+youngstown state,22-9,0.37,1464,2023
+georgia,16-16,0.37,1208,2023
+towson,21-12,0.34,1406,2023
+boston college,16-17,0.33,1130,2023
+charlotte,18-14,0.32,1150,2023
+northern kentucky,20-12,0.32,1297,2023
+butler,14-18,0.3,1139,2023
+eastern kentucky,17-13,0.29,1184,2023
+south dakota state,18-13,0.28,1355,2023
+colorado state,14-18,0.28,1161,2023
+cal state fullerton,18-13,0.28,1168,2023
+lsu,14-19,0.26,1261,2023
+davidson,15-16,0.23,1172,2023
+troy,17-13,0.23,1407,2023
+missouri state,16-15,0.22,1283,2023
+north carolina-greensboro,18-12,0.21,1422,2023
+stephen f. austin,16-13,0.21,1372,2023
+grambling,22-9,0.2,1212,2023
+penn,16-13,0.18,1335,2023
+cornell,15-11,0.17,1165,2023
+samford,18-10,0.17,1359,2023
+northwestern state,21-11,0.16,1322,2023
+milwaukee,18-11,0.16,1454,2023
+ball state,18-12,0.15,1123,2023
+cleveland state,20-12,0.15,1156,2023
+south alabama,17-16,0.14,1375,2023
+rice,15-15,0.14,1349,2023
+norfolk state,18-11,0.12,1313,2023
+murray state,16-15,0.11,1293,2023
+howard,19-12,0.1,1224,2023
+western kentucky,15-16,0.1,1443,2023
+ole miss,12-21,0.1,1279,2023
+stanford,14-19,0.1,1390,2023
+lipscomb,17-13,0.09,1252,2023
+stetson,15-13,0.08,1391,2023
+georgia tech,13-18,0.07,1210,2023
+ohio,18-14,0.07,1325,2023
+umass,15-16,0.06,1269,2023
+richmond,15-18,0.04,1350,2023
+texas a&m-corpus christi,19-10,0.04,1394,2023
+quinnipiac,19-12,0.03,1346,2023
+east carolina,16-17,0.01,1187,2023
+tarleton state,13-16,0,0,2023
+george washington,15-16,0,1203,2023
+morehead state,17-11,-0.01,1287,2023
+st. joseph's,16-17,-0.03,1386,2023
+uc-davis,16-14,-0.03,1413,2023
+st. thomas (mn),17-14,-0.06,0,2023
+florida gulf coast,16-15,-0.07,1195,2023
+brown,14-13,-0.08,1135,2023
+montana,16-14,-0.08,1285,2023
+air force,14-18,-0.09,1102,2023
+bryant,15-13,-0.1,1136,2023
+california baptist,15-16,-0.11,1465,2023
+south florida,14-18,-0.12,1378,2023
+queens (nc),15-15,-0.12,0,2023
+longwood,18-12,-0.12,1255,2023
+north carolina central,14-12,-0.12,1300,2023
+st. bonaventure,14-18,-0.12,1382,2023
+long beach state,15-16,-0.13,1253,2023
+north alabama,15-14,-0.13,1466,2023
+maryland-eastern shore,14-13,-0.14,1271,2023
+weber state,16-15,-0.15,1451,2023
+buffalo,13-17,-0.15,1138,2023
+pacific,14-17,-0.15,1334,2023
+south carolina,11-21,-0.15,1376,2023
+delaware,16-16,-0.15,1174,2023
+louisiana tech,12-18,-0.16,1256,2023
+la salle,15-19,-0.16,1247,2023
+utep,12-18,-0.17,1431,2023
+radford,17-14,-0.17,1347,2023
+portland,12-19,-0.18,1339,2023
+alcorn state,18-13,-0.18,1108,2023
+depaul,10-23,-0.18,1177,2023
+georgia southern,14-16,-0.19,1204,2023
+navy,17-13,-0.19,1298,2023
+notre dame,11-21,-0.21,1323,2023
+fresno state,10-20,-0.21,1201,2023
+texas state,14-18,-0.21,1402,2023
+appalachian state,13-16,-0.21,1111,2023
+harvard,12-14,-0.21,1217,2023
+drexel,16-15,-0.23,1180,2023
+florida international,12-18,-0.24,1198,2023
+northern iowa,13-18,-0.25,1320,2023
+north dakota state,14-17,-0.25,1295,2023
+rider,15-14,-0.26,1351,2023
+siena,17-15,-0.26,1373,2023
+umbc,17-14,-0.3,1420,2023
+chattanooga,15-17,-0.32,1151,2023
+ipfw,15-15,-0.32,1236,2023
+wright state,16-15,-0.32,1460,2023
+smu,10-22,-0.32,1374,2023
+bellarmine,12-18,-0.34,1468,2023
+wyoming,8-22,-0.34,1461,2023
+western carolina,15-15,-0.34,1441,2023
+minnesota,9-22,-0.34,1278,2023
+southern illinois-edwardsville,16-14,-0.35,1188,2023
+western illinois,13-14,-0.35,1442,2023
+north florida,12-17,-0.36,1316,2023
+florida state,9-23,-0.36,1199,2023
+niagara,15-15,-0.37,1310,2023
+south carolina upstate,14-15,-0.37,1367,2023
+southeast missouri state,17-16,-0.38,1369,2023
+utah tech,11-19,-0.38,0,2023
+wofford,14-16,-0.39,1459,2023
+southeastern louisiana,15-14,-0.39,1368,2023
+oregon state,10-21,-0.41,1333,2023
+texas-rio grande valley,11-17,-0.42,1410,2023
+jacksonville,10-16,-0.43,1239,2023
+new hampshire,13-15,-0.45,1306,2023
+lehigh,14-14,-0.45,1250,2023
+abilene christian,9-17,-0.46,1101,2023
+ut-martin,15-14,-0.49,1404,2023
+gardner-webb,13-16,-0.51,1205,2023
+new mexico state,6-15,-0.51,1308,2023
+american,17-15,-0.51,1110,2023
+winthrop,13-17,-0.52,1457,2023
+campbell,14-18,-0.55,1144,2023
+san diego,9-20,-0.56,1360,2023
+detroit,13-19,-0.57,1178,2023
+oakland,12-19,-0.6,1324,2023
+sacramento state,12-18,-0.6,1170,2023
+loyola (il),10-21,-0.6,1260,2023
+robert morris,14-17,-0.6,1352,2023
+tennessee state,14-14,-0.61,1398,2023
+army,15-16,-0.62,1119,2023
+rhode island,9-22,-0.62,1348,2023
+northern colorado,12-19,-0.62,1294,2023
+texas-arlington,8-21,-0.62,1426,2023
+jacksonville state,10-18,-0.63,1240,2023
+northern illinois,12-18,-0.64,1296,2023
+nicholls state,12-15,-0.64,1311,2023
+merrimack,16-16,-0.65,1467,2023
+maine,11-17,-0.66,1263,2023
+boston university,14-17,-0.66,1131,2023
+pepperdine,7-22,-0.66,1337,2023
+tennessee tech,13-17,-0.66,1399,2023
+morgan state,11-16,-0.67,1288,2023
+fairfield,12-18,-0.67,1193,2023
+southern indiana,13-16,-0.68,0,2023
+high point,12-17,-0.7,1219,2023
+illinois state,11-21,-0.71,1229,2023
+mercer,12-19,-0.71,1273,2023
+denver,13-17,-0.72,1176,2023
+st. peter's,13-18,-0.72,1389,2023
+georgetown,7-25,-0.73,1207,2023
+fairleigh dickinson,17-15,-0.73,1192,2023
+north dakota,11-20,-0.74,1315,2023
+uic,11-20,-0.74,1227,2023
+utsa,8-22,-0.74,1427,2023
+binghamton,11-18,-0.75,1127,2023
+south dakota,10-19,-0.75,1377,2023
+william & mary,11-20,-0.76,1456,2023
+marist,13-20,-0.76,1265,2023
+mount st. mary's,12-20,-0.77,1291,2023
+wagner,13-13,-0.78,1447,2023
+portland state,10-19,-0.78,1340,2023
+manhattan,11-18,-0.8,1264,2023
+umkc,10-20,-0.81,1282,2023
+valparaiso,10-21,-0.82,1434,2023
+southern,13-17,-0.82,1380,2023
+dartmouth,8-18,-0.83,1171,2023
+jackson state,14-19,-0.84,1238,2023
+northern arizona,10-23,-0.84,1319,2023
+louisiana-monroe,8-21,-0.84,1419,2023
+north carolina a&t,10-19,-0.85,1299,2023
+coastal carolina,8-20,-0.85,1157,2023
+arkansas state,10-20,-0.85,1117,2023
+northeastern,10-20,-0.86,1318,2023
+texas southern,12-20,-0.87,1411,2023
+stonehill,13-17,-0.89,0,2023
+canisius,9-20,-0.89,1145,2023
+etsu,10-20,-0.93,1190,2023
+uc-san diego,8-20,-0.94,0,2023
+sacred heart,15-17,-0.94,1357,2023
+georgia state,7-21,-0.95,1209,2023
+miami (oh),9-20,-0.96,1275,2023
+lafayette,11-23,-0.98,1248,2023
+alabama a&m,12-18,-0.99,1105,2023
+loyola (md),11-20,-1,1259,2023
+bowling green state,9-20,-1,1132,2023
+prairie view,11-19,-1,1341,2023
+texas a&m-commerce,12-20,-1.01,0,2023
+cal state bakersfield,9-22,-1.01,1167,2023
+nebraska-omaha,8-23,-1.03,1303,2023
+central arkansas,8-22,-1.03,1146,2023
+coppin state,9-23,-1.03,1164,2023
+stony brook,9-22,-1.05,1392,2023
+idaho state,9-21,-1.05,1226,2023
+bucknell,11-20,-1.08,1137,2023
+st. francis (ny),12-16,-1.11,1383,2023
+louisville,4-28,-1.13,1257,2023
+saint francis (pa),11-18,-1.16,1384,2023
+new orleans,10-20,-1.16,1309,2023
+mcneese state,10-23,-1.17,1270,2023
+central michigan,8-21,-1.17,1141,2023
+charleston southern,8-21,-1.17,1149,2023
+citadel,9-22,-1.19,1154,2023
+austin peay,6-22,-1.19,1122,2023
+tulsa,5-25,-1.2,1409,2023
+eastern michigan,7-23,-1.21,1185,2023
+incarnate word,9-19,-1.22,1230,2023
+bethune-cookman,10-20,-1.28,1126,2023
+chicago state,7-20,-1.28,1152,2023
+idaho,8-22,-1.29,1225,2023
+monmouth,7-26,-1.3,1284,2023
+arkansas-little rock,8-21,-1.3,1114,2023
+hampton,7-24,-1.31,1214,2023
+lindenwood,8-21,-1.31,0,2023
+cal poly,6-25,-1.33,1142,2023
+holy cross,8-22,-1.33,1221,2023
+university of california,3-29,-1.38,1143,2023
+columbia,5-22,-1.39,1162,2023
+central connecticut,10-22,-1.41,1148,2023
+eastern illinois,7-22,-1.45,1183,2023
+evansville,5-27,-1.47,1191,2023
+njit,6-23,-1.48,1312,2023
+albany (ny),6-23,-1.48,1107,2023
+elon,6-24,-1.51,1189,2023
+houston baptist,7-22,-1.51,1223,2023
+western michigan,5-23,-1.52,1444,2023
+cal state northridge,5-25,-1.54,1169,2023
+arkansas-pine bluff,6-21,-1.6,1115,2023
+delaware state,5-23,-1.61,1175,2023
+lamar,6-22,-1.62,1249,2023
+alabama state,7-23,-1.64,1106,2023
+south carolina state,4-26,-1.64,1354,2023
+virginia military institute,4-25,-1.75,1440,2023
+florida a&m,5-22,-1.76,1197,2023
+mississippi valley state,5-27,-1.87,1290,2023
+green bay,3-29,-2.04,1453,2023
+presbyterian,3-27,-2.14,1342,2023
+iupui,3-27,-2.16,1237,2023
+hartford,2-23,-2.24,1216,2023
+liu-brooklyn,1-26,-2.59,1254,2023
